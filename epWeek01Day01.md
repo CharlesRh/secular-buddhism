@@ -31,5 +31,3 @@ Take a moment to consider:
 Observe your day through the lens of interconnectedness. Notice how your actions, thoughts, and experiences are linked to wider networks of human and environmental relationship.
 
 Right View is not about achieving a perfect understanding, but about cultivating a more nuanced, compassionate perspective on human experience.
-
-End Day 01
