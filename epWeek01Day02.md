@@ -6,7 +6,7 @@
 Building on our understanding of the Four Noble Truths, today we explore two fundamental aspects of Right View: impermanence (*anicca*) and interdependence. In Buddhist teaching, these are part of what are called the Three Marks of Existence (the third being *dukkha*, which we explored yesterday).
 
 ### Impermanence (Anicca)
-xa
+
 The Buddha observed that everything in our experience is in constant flux. Nothing remains unchanged, whether it's our physical bodies, our thoughts and emotions, our relationships, or the world around us. This impermanence isn't just a philosophical concept—it's something we can observe directly:
 
 - Our breath continuously flows in and out
@@ -53,4 +53,4 @@ Take a moment to consider:
 
 ### Today's Practice
 
-Throughout today, notice moments of change—subtle shifts in your body, emotions, thoughts, or environment. When you notice change, gently remind yourself: "This is the nature of all experience." See if this awareness brings a sense of spaciousness or ease.
+Throughout today, notice moments of change—subtle shifts in your body, emotions, thoughts, or environment. When you notice change, gently remind yourself: "This is the nature of all experience." See if this awareness brings a sense of spaciousness or ease."

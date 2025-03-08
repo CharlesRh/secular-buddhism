@@ -42,10 +42,6 @@ Take a moment to consider:
 - Can you identify the craving or clinging that might be contributing to this experience?
 - How might your suffering be reduced by changing your relationship with this craving?
 
-### Today's Challenge
+### Today's Practice
 
-Observe your day through the lens of interconnectedness. Notice how your actions, thoughts, and experiences are linked to wider networks of human and environmental relationship.
-
-Right View is not about achieving a perfect understanding, but about cultivating a more nuanced, compassionate perspective on human experience.
-
-End Day 01
+Throughout today, notice moments of dissatisfaction or stress. Rather than immediately trying to fix or escape these feelings, pause and investigate: "What am I craving right now? What am I resisting?" Simply bringing awareness to these patterns is the beginning of Right View.
