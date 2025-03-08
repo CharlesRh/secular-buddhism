@@ -1,24 +1,48 @@
-# Glossary of Buddhist Terms
+# Glossary
 
 ## A
-**Anicca**: The principle of impermanence; the understanding that all phenomena are in constant flux.
+**Anicca**: The Pali term for impermanence, describing the constant state of flux in all phenomena.
+**Anatta**: The concept of "non-self" or "no permanent self," one of the three marks of existence.
+**Awakening**: The state of seeing clearly into the nature of reality and freedom from suffering.
 
 ## D
-**Dukkha**: Often translated as "suffering" or "unsatisfactoriness"; encompasses stress, dissatisfaction, and the inherent unsatisfactory nature of conditioned existence.
+**Dukkha**: Often translated as "suffering" or "unsatisfactoriness," referring to the inherent stress and dissatisfaction in life.
+**Dharma**: The teachings of the Buddha; also refers to natural law and the way things are.
+
+## E
+**Eightfold Path**: The Buddha's practical framework for reducing suffering and achieving wellbeing, consisting of eight interconnected aspects: Right View, Right Intention, Right Speech, Right Action, Right Livelihood, Right Effort, Right Mindfulness, and Right Concentration.
+**Emptiness**: The understanding that all phenomena lack inherent, independent existence.
+
+## F
+**Four Noble Truths**: The foundational teachings of Buddhism that describe the nature of suffering, its causes, and the path to its cessation.
+
+## I
+**Impermanence**: The principle that all phenomena are in constant flux and nothing remains unchanged.
+**Interdependence**: The understanding that all things exist in relationship to each other and nothing exists in isolation.
+**Insight**: Direct experiential understanding of the nature of reality.
 
 ## K
-**Kamma**: Action; the principle that our actions create our future experiences.
+**Karma**: The principle of cause and effect applied to mental, verbal, and physical actions. In secular Buddhism, karma is understood as the natural law of causality rather than a supernatural force.
+
+## M
+**Meditation**: The practice of training the mind through various methods of concentration and insight.
+**Mindfulness**: The practice of present-moment awareness with an attitude of openness and non-judgment.
+**Middle Way**: The path between extremes of asceticism and indulgence.
+
+## N
+**Nirvana**: The state of freedom from suffering and delusion.
 
 ## P
-**Paticca-samuppada**: Dependent origination; the principle that all phenomena arise in dependence upon multiple causes and conditions.
+**Pali**: Ancient Indian language of early Buddhist texts.
+**Prajna**: Wisdom or insight into the true nature of reality.
+
+## R
+**Right View**: The first element of the Eightfold Path, focusing on understanding reality clearly and seeing things as they truly are.
 
 ## S
-**Samma Ditthi**: Right View; the first factor of the Eightfold Path, focusing on seeing reality clearly.
+**Samsara**: The cycle of habitual patterns and reactive behaviors that perpetuate suffering.
+**Sangha**: Community of practitioners who support each other on the path.
+**Sutra**: Buddhist scripture or discourse.
 
 ## T
-**Tanha**: Craving or thirst; manifests in three forms:
-- Craving for sensory pleasures
-- Craving for existence
-- Craving for non-existence
-
-This glossary will grow as we encounter more terms throughout the course. Each term includes its original Pali or Sanskrit name where relevant, along with practical definitions and context.
+**Three Marks of Existence**: The characteristics of all conditioned phenomena: impermanence, suffering, and non-self.
