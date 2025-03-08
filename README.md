@@ -36,3 +36,7 @@ Each lesson includes:
 - Core concepts
 - Practical reflections
 - Daily practice suggestions
+
+## Resources
+
+- [Glossary of Buddhist Terms](glossary.md) - Reference guide for Pali and Buddhist terminology
