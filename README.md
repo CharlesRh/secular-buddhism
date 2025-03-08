@@ -9,6 +9,7 @@ The course is organized into eight main sections, following the traditional elem
 1. Right View
   - Four Noble Truths
   - Impermanence and Interdependence
+  - Karma and Causality
 2. Right Intention
 3. Right Speech
 4. Right Action
@@ -22,6 +23,7 @@ The course is organized into eight main sections, following the traditional elem
 ### 1. Right View
 - [Four Noble Truths](eightfold-path/1-right-view/01-four-noble-truths.md)
 - [Impermanence and Interdependence](eightfold-path/1-right-view/02-impermanence-interdependence.md)
+- [Karma and Causality](eightfold-path/1-right-view/03-karma.md)
 
 ## Navigation
 

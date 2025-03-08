@@ -6,6 +6,9 @@
 ## D
 **Dukkha**: Often translated as "suffering" or "unsatisfactoriness"; encompasses stress, dissatisfaction, and the inherent unsatisfactory nature of conditioned existence.
 
+## K
+**Kamma**: Action; the principle that our actions create our future experiences.
+
 ## P
 **Paticca-samuppada**: Dependent origination; the principle that all phenomena arise in dependence upon multiple causes and conditions.
 
