@@ -1,6 +1,6 @@
 # Secular Buddhism: The Eightfold Path
 
-A practical guide to exploring and implementing the Buddha's Eightfold Path in contemporary life.
+A practical guide to exploring and implementing the Buddha's Eightfold Path in contemporary life. This course presents Buddhist principles and practices in accessible, modern terms while maintaining the depth and transformative potential of the original teachings. Taking a secular, evidence-based approach, it strips away supernatural elements to focus on what is directly observable in our experience. Through systematic exploration of each aspect of the path, practitioners learn to cultivate wisdom, ethical conduct, and mental development.
 
 ## Structure
 
