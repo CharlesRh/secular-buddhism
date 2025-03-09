@@ -24,6 +24,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Four Noble Truths](eightfold-path/1-right-view/01-four-noble-truths.md)
 - [Impermanence and Interdependence](eightfold-path/1-right-view/02-impermanence-interdependence.md)
 - [Karma and Causality](eightfold-path/1-right-view/03-karma.md)
+- [The Middle Way](eightfold-path/1-right-view/04-middle-way.md)
 
 ## Navigation
 
