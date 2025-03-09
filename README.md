@@ -10,6 +10,7 @@ The course is organized into eight main sections, following the traditional elem
   - Four Noble Truths
   - Impermanence and Interdependence
   - Karma and Causality
+  - The Middle Way
 2. Right Intention
 3. Right Speech
 4. Right Action
