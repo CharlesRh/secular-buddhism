@@ -18,7 +18,7 @@ The course is organized into eight main sections, following the traditional elem
 4. **Right Action** - Engaging in ethical, wholesome bodily conduct. This involves abstaining from killing, stealing, and sexual misconduct, while cultivating actions that demonstrate respect for life, property, and appropriate relationships.  
 
 5. **Right Livelihood** - Earning one's living in ways that avoid causing harm to others. This means avoiding occupations that involve exploitation, dishonesty, or directly causing suffering, while pursuing work that contributes positively to society.  
-\
+
 6. **Right Effort** - Directing energy toward cultivating wholesome qualities and abandoning unwholesome ones. This includes preventing negative states from arising, overcoming existing negative states, cultivating positive states, and maintaining positive states that have arisen.  
 
 7. **Right Mindfulness** - Maintaining moment-to-moment awareness of one's body, feelings, mind, and mental objects. This involves observing phenomena arise and pass away without attachment or aversion, cultivating clear comprehension of present experience.  
