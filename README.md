@@ -6,22 +6,22 @@ A practical guide to exploring and implementing the Buddha's Eightfold Path in c
 
 The course is organized into eight main sections, following the traditional elements of the path:
 
-1. **Right View** - Seeing reality as it truly is, without delusion or distortion. This includes understanding the Four Noble Truths and recognizing the impermanent, unsatisfactory, and selfless nature of existence.
+1. **Right View** - Seek to understand the nature of reality, impermanence, and the impact of your actions. Engage in study, reflection, and open-mindedness.
   - Four Noble Truths
   - Impermanence and Interdependence
   - Karma and Causality
   - The Middle Way
-2. **Right Intention** - Cultivating wholesome intentions free from desire, ill-will, and cruelty. This involves commitment to ethical and mental development, with thoughts guided by renunciation, goodwill, and compassion.  
+2. **Right Intention** - Set positive intentions daily. Focus on kindness, generosity, and compassion. Before reacting, pause to align your actions with these values.  
 
-3. **Right Speech** - Communicating in ways that are truthful, beneficial, harmonious, and timely. This means abstaining from lying, divisive speech, harsh language, and pointless gossip.  
+3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefullness and understanding.  
 
-4. **Right Action** - Engaging in ethical, wholesome bodily conduct. This involves abstaining from killing, stealing, and sexual misconduct, while cultivating actions that demonstrate respect for life, property, and appropriate relationships.  
+4. **Right Action** - Act ethically and responsibly by making choices that do not harm other beings, engaging in social justice, and practicing environmental stewardship.  
 
-5. **Right Livelihood** - Earning one's living in ways that avoid causing harm to others. This means avoiding occupations that involve exploitation, dishonesty, or directly causing suffering, while pursuing work that contributes positively to society.  
+5. **Right Livelihood** - Choose work that contributes positively to your well-being and that of others. Avoid jobs that cause harm or exploit others.  
 
-6. **Right Effort** - Directing energy toward cultivating wholesome qualities and abandoning unwholesome ones. This includes preventing negative states from arising, overcoming existing negative states, cultivating positive states, and maintaining positive states that have arisen.  
+6. **Right Effort** - Cultivate positive states of mind and work to reduce negative thoughts and actions. Engage in regular self-reflection and mental discipline.  
 
-7. **Right Mindfulness** - Maintaining moment-to-moment awareness of one's body, feelings, mind, and mental objects. This involves observing phenomena arise and pass away without attachment or aversion, cultivating clear comprehension of present experience.  
+7. **Right Mindfulness** - Practice mindfulness in daily activities: eating, walking, working. Be fully present and aware, observing your thoughts and emotions without judgment.  
 
 8. **Right Concentration** - Developing one-pointed focus of mind through meditation practice. This involves progressing through increasingly refined states of mental absorption (jhanas), characterized by joy, equanimity, and alertness.
 
