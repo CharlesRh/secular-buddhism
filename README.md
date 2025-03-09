@@ -6,24 +6,24 @@ A practical guide to exploring and implementing the Buddha's Eightfold Path in c
 
 The course is organized into eight main sections, following the traditional elements of the path:
 
-1. **Right View** - Seek to understand the nature of reality, impermanence, and the impact of your actions. Engage in study, reflection, and open-mindedness.
+1. **Right View** - Seek to understand the nature of reality, impermanence, and the impact of your actions. Recognize how suffering arises from craving and attachment. Engage in study, reflection, and open-mindedness.
   - Four Noble Truths
   - Impermanence and Interdependence
   - Karma and Causality
   - The Middle Way
-2. **Right Intention** - Set positive intentions daily. Focus on kindness, generosity, and compassion. Before reacting, pause to align your actions with these values.  
+2. **Right Intention** - Set positive intentions daily. Focus on kindness, generosity, and compassion. Practice letting go of ill-will and harmful thoughts. Before reacting, pause to align your actions with these values.  
 
-3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefullness and understanding.  
+3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.  
 
 4. **Right Action** - Act ethically and responsibly by making choices that do not harm other beings, engaging in social justice, and practicing environmental stewardship.  
 
-5. **Right Livelihood** - Choose work that contributes positively to your well-being and that of others. Avoid jobs that cause harm or exploit others.  
+5. **Right Livelihood** - Choose work that contributes positively to your well-being and that of others. Approach work mindfully and with integrity. Avoid jobs that cause harm or exploit others.  
 
-6. **Right Effort** - Cultivate positive states of mind and work to reduce negative thoughts and actions. Engage in regular self-reflection and mental discipline.  
+6. **Right Effort** - Cultivate positive states of mind and work to reduce negative thoughts and actions. Balance energy between excessive striving and complacency. Engage in regular self-reflection and mental discipline.  
 
 7. **Right Mindfulness** - Practice mindfulness in daily activities: eating, walking, working. Be fully present and aware, observing your thoughts and emotions without judgment.  
 
-8. **Right Concentration** - Developing one-pointed focus of mind through meditation practice. This involves progressing through increasingly refined states of mental absorption (jhanas), characterized by joy, equanimity, and alertness.
+8. **Right Concentration** - Develop sustained, focused attention through meditation. Practice directing and maintaining awareness with clarity, stability, and tranquility.
 
 ## Current Lessons
 
