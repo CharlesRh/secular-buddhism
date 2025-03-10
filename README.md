@@ -11,6 +11,7 @@ The course is organized into eight main sections, following the traditional elem
   - Impermanence and Interdependence
   - Karma and Causality
   - The Middle Way
+  - Wisdom and Compassion
 2. **Right Intention** - Set positive intentions daily. Focus on kindness, generosity, and compassion. Practice letting go of ill-will and harmful thoughts. Before reacting, pause to align your actions with these values.  
 
 3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.  
@@ -32,6 +33,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Impermanence and Interdependence](eightfold-path/1-right-view/02-impermanence-interdependence.md)
 - [Karma and Causality](eightfold-path/1-right-view/03-karma.md)
 - [The Middle Way](eightfold-path/1-right-view/04-middle-way.md)
+- [Wisdom and Compassion](eightfold-path/1-right-view/05-wisdom-compassion.md)
 
 ## Navigation
 
