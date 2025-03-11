@@ -36,8 +36,8 @@ The course is organized into eight main sections, following the traditional elem
 - [Karma and Causality](eightfold-path/1-right-view/03-karma.md)
 - [The Middle Way](eightfold-path/1-right-view/04-middle-way.md)
 - [Wisdom and Compassion](eightfold-path/1-right-view/05-wisdom-compassion.md)
-- [The Five Hindrances](eightfold-path/1-right-view/06-hindrances.md)
-- [Integration and Daily Life](eightfold-path/1-right-view/07-integration.md)
+- [The Five Hindrances](eightfold-path/1-right-view/06-five-hindrances.md)
+- [Integration and Daily Life](eightfold-path/1-right-view/07-integration-and-daily-life.md)
 
 ## Navigation
 
