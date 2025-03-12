@@ -14,8 +14,8 @@ The course is organized into eight main sections, following the traditional elem
   - Wisdom and Compassion
   - The Five Hindrances
   - Integration and Daily Life
-2. **Right Intention** - Set positive intentions daily. Focus on kindness, generosity, and compassion. Practice letting go of ill-will and harmful thoughts. Before reacting, pause to align your actions with these values.  
-
+2. **Right Intention** - Set positive intentions daily. Focus on kindness, generosity, and compassion. Practice letting go of ill-will and harmful thoughts. Before reacting, pause to align your actions with these values.
+  - The Heart of Motivation
 3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.  
 
 4. **Right Action** - Act ethically and responsibly by making choices that do not harm other beings, engaging in social justice, and practicing environmental stewardship.  
@@ -38,6 +38,9 @@ The course is organized into eight main sections, following the traditional elem
 - [Wisdom and Compassion](eightfold-path/1-right-view/05-wisdom-compassion.md)
 - [The Five Hindrances](eightfold-path/1-right-view/06-five-hindrances.md)
 - [Integration and Daily Life](eightfold-path/1-right-view/07-integration-and-daily-life.md)
+
+### 1. Right Intention
+- [The Heart of Motivation](eightfold-path/2-right-intention/01-heart-of-motivation.md)
 
 ## Navigation
 
