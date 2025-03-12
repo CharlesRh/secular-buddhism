@@ -2,7 +2,7 @@
 
 A practical guide to exploring and implementing the Buddha's Eightfold Path in contemporary life. This course presents Buddhist principles and practices in accessible, modern terms while maintaining the depth and transformative potential of the original teachings. Taking a secular, evidence-based approach, it strips away supernatural elements to focus on what is directly observable in our experience. Through systematic exploration of each aspect of the path, practitioners learn to cultivate wisdom, ethical conduct, and mental development.  
 
-New content will be added daily-ish, one lesson per day, over the course of a eight weeks. Each week will explore one aspect of the path, with each lesson building on the previous one.
+New content will be added daily-ish, one lesson per day, over the course of eight weeks. Each week will explore one aspect of the path, with each lesson building on the previous one.
 
 ## Structure
 
