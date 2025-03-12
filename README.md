@@ -1,21 +1,25 @@
 # Secular Buddhism: The Eightfold Path
 
-A practical guide to exploring and implementing the Buddha's Eightfold Path in contemporary life. This course presents Buddhist principles and practices in accessible, modern terms while maintaining the depth and transformative potential of the original teachings. Taking a secular, evidence-based approach, it strips away supernatural elements to focus on what is directly observable in our experience. Through systematic exploration of each aspect of the path, practitioners learn to cultivate wisdom, ethical conduct, and mental development.
+A practical guide to exploring and implementing the Buddha's Eightfold Path in contemporary life. This course presents Buddhist principles and practices in accessible, modern terms while maintaining the depth and transformative potential of the original teachings. Taking a secular, evidence-based approach, it strips away supernatural elements to focus on what is directly observable in our experience. Through systematic exploration of each aspect of the path, practitioners learn to cultivate wisdom, ethical conduct, and mental development.  
+
+New content will be added daily-ish, one lesson per day.
 
 ## Structure
 
 The course is organized into eight main sections, following the traditional elements of the path:
 
 1. **Right View** - Seek to understand the nature of reality, impermanence, and the impact of your actions. Recognize how suffering arises from craving and attachment. Engage in study, reflection, and open-mindedness.
-  - Four Noble Truths
-  - Impermanence and Interdependence
-  - Karma and Causality
-  - The Middle Way
-  - Wisdom and Compassion
-  - The Five Hindrances
-  - Integration and Daily Life
+-[Four Noble Truths](eightfold-path/1-right-view/01-four-noble-truths.md)
+- [Impermanence and Interdependence](eightfold-path/1-right-view/02-impermanence-interdependence.md)
+- [Karma and Causality](eightfold-path/1-right-view/03-karma.md)
+- [The Middle Way](eightfold-path/1-right-view/04-middle-way.md)
+- [Wisdom and Compassion](eightfold-path/1-right-view/05-wisdom-compassion.md)
+- [The Five Hindrances](eightfold-path/1-right-view/06-five-hindrances.md)
+- [Integration and Daily Life](eightfold-path/1-right-view/07-integration-and-daily-life.md)
+
 2. **Right Intention** - Set positive intentions daily. Focus on kindness, generosity, and compassion. Practice letting go of ill-will and harmful thoughts. Before reacting, pause to align your actions with these values.
-  - The Heart of Motivation
+- [The Heart of Motivation](eightfold-path/2-right-intention/01-heart-of-motivation.md)
+
 3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.  
 
 4. **Right Action** - Act ethically and responsibly by making choices that do not harm other beings, engaging in social justice, and practicing environmental stewardship.  
@@ -27,20 +31,6 @@ The course is organized into eight main sections, following the traditional elem
 7. **Right Mindfulness** - Practice mindfulness in daily activities: eating, walking, working. Be fully present and aware, observing your thoughts and emotions without judgment.  
 
 8. **Right Concentration** - Develop sustained, focused attention through meditation. Practice directing and maintaining awareness with clarity, stability, and tranquility.
-
-## Current Lessons
-
-### 1. Right View
-- [Four Noble Truths](eightfold-path/1-right-view/01-four-noble-truths.md)
-- [Impermanence and Interdependence](eightfold-path/1-right-view/02-impermanence-interdependence.md)
-- [Karma and Causality](eightfold-path/1-right-view/03-karma.md)
-- [The Middle Way](eightfold-path/1-right-view/04-middle-way.md)
-- [Wisdom and Compassion](eightfold-path/1-right-view/05-wisdom-compassion.md)
-- [The Five Hindrances](eightfold-path/1-right-view/06-five-hindrances.md)
-- [Integration and Daily Life](eightfold-path/1-right-view/07-integration-and-daily-life.md)
-
-### 1. Right Intention
-- [The Heart of Motivation](eightfold-path/2-right-intention/01-heart-of-motivation.md)
 
 ## Navigation
 
