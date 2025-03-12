@@ -8,8 +8,9 @@ New content will be added daily-ish, one lesson per day.
 
 The course is organized into eight main sections, following the traditional elements of the path:
 
-1. **Right View** - Seek to understand the nature of reality, impermanence, and the impact of your actions. Recognize how suffering arises from craving and attachment. Engage in study, reflection, and open-mindedness.
--[Four Noble Truths](eightfold-path/1-right-view/01-four-noble-truths.md)
+1. **Right View** - Seek to understand the nature of reality, impermanence, and the impact of your actions. Recognize how suffering arises from craving and attachment. Engage in study, reflection, and open-mindedness.  
+
+- [Four Noble Truths](eightfold-path/1-right-view/01-four-noble-truths.md)
 - [Impermanence and Interdependence](eightfold-path/1-right-view/02-impermanence-interdependence.md)
 - [Karma and Causality](eightfold-path/1-right-view/03-karma.md)
 - [The Middle Way](eightfold-path/1-right-view/04-middle-way.md)
