@@ -45,7 +45,9 @@ Signs that you might be practicing aversion rather than renunciation:
 
 The positive expression of renunciation is contentment (*santutthi*)—the capacity to feel that what we have is enough. This doesn't mean never seeking improvement, but rather not basing our happiness on obtaining something we don't currently have.
 
-Contentment isn't passive resignation but an active appreciation of what is present. Research in positive psychology confirms what contemplative traditions have long known: practicing gratitude and appreciation significantly increases well-being.
+Contentment isn't passive resignation but an active appreciation of what is present. Research in positive psychology confirms what contemplative traditions have long known: practicing gratitude and appreciation significantly increases well-being.[^1]
+
+[^1]: For more on how gratitude practices improve well-being, see: "The Science of Gratitude" by the Greater Good Science Center at UC Berkeley: [https://greatergood.berkeley.edu/article/item/how_gratitude_changes_you_and_your_brain](https://greatergood.berkeley.edu/article/item/how_gratitude_changes_you_and_your_brain)
 
 ### Practical Applications of Renunciation
 
