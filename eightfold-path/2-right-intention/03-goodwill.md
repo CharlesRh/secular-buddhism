@@ -3,9 +3,11 @@
 
 ### The Heart of Connection
 
-Today we explore the second aspect of Right Intention: goodwill (*abyapada*). Where renunciation addresses our relationship with desire, goodwill addresses our relationship with others and ourselves. It is the intention to wish well, to care, and to respond with kindness rather than hostility.
+Today we explore the second aspect of Right Intention: goodwill, which in Pali is called *abyapada*. The term *abyapada* literally means "non-ill will" or "absence of malevolence" — it represents our intention to overcome harmful thoughts and cultivate attitudes of friendliness and care.
 
-The Buddha considered the cultivation of goodwill (*metta* in Pali) to be one of the most powerful practices, describing it as:
+When we act on this intention of goodwill, we develop the quality of heart known as *metta*, often translated as "loving-kindness" or "benevolence." Where *abyapada* is the intention, *metta* is the emotional quality and practice that flows from this intention.
+
+The Buddha considered the cultivation of *metta* to be one of the most powerful practices, describing it as:
 
 >"This is the path of community with Brahma... that a person should have a mind of goodwill — free from hatred and ill will."
 
@@ -41,9 +43,9 @@ Self-kindness involves:
 - Responding to mistakes with forgiveness rather than shame
 - Caring for our own well-being as we would a dear friend's
 
-### Expanding the Circle
+### The Metta Practice: Expanding the Circle
 
-The traditional practice for cultivating goodwill begins with ourselves and then gradually expands to include:
+The traditional practice for cultivating *metta* (the quality that emerges from our intention of *abyapada*) begins with ourselves and then gradually expands to include:
 1. A benefactor or someone who has supported us
 2. A dear friend
 3. A neutral person (someone we neither like nor dislike)
@@ -64,7 +66,7 @@ This doesn't mean excusing harmful behavior or putting ourselves in danger. Rath
 
 ### From Intention to Action
 
-While goodwill begins as an intention, it naturally flows into action. Small acts of kindness—a genuine smile, a considerate gesture, a moment of full attention—strengthen the intention of goodwill and create ripples that extend beyond ourselves.
+While *abyapada* begins as an intention, it naturally flows into the active quality of *metta* and then into concrete actions. Small acts of kindness—a genuine smile, a considerate gesture, a moment of full attention—strengthen both our intention and our capacity for goodwill, creating ripples that extend beyond ourselves.
 
 Research suggests that acts of kindness benefit not only the receiver but also the giver, improving mood, reducing stress, and even enhancing physical health.[^1]
 
@@ -77,6 +79,6 @@ Take a moment to consider:
 
 ### Today's Practice
 
-Today, experiment with beginning each interaction with the silent intention: "May I approach this with goodwill." Notice how this intention affects your tone, your body language, and your responsiveness. Pay particular attention to challenging interactions—can you maintain goodwill even when you disagree or need to set a boundary?
+Today, experiment with beginning each interaction with the silent intention: "May I approach this with goodwill" (*abyapada*). Then allow the feeling of *metta* to arise naturally. Notice how this intention affects your tone, your body language, and your responsiveness. Pay particular attention to challenging interactions—can you maintain goodwill even when you disagree or need to set a boundary?
 
 [^1]: For more information on the benefits of kindness, see: "The Science of Kindness" by the Random Acts of Kindness Foundation: [https://www.randomactsofkindness.org/the-science-of-kindness](https://www.randomactsofkindness.org/the-science-of-kindness)
