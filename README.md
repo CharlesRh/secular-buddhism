@@ -22,6 +22,7 @@ The course is organized into eight main sections, following the traditional elem
 - [The Heart of Motivation](eightfold-path/2-right-intention/01-heart-of-motivation.md)
 - [Renunciation](eightfold-path/2-right-intention/02-renunciation.md)
 - [Goodwill](eightfold-path/2-right-intention/03-goodwill.md)
+- [Harmlessness](eightfold-path/2-right-intention/04-harmlessness.md)
 
 3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.  
 
