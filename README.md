@@ -23,6 +23,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Renunciation](eightfold-path/2-right-intention/02-renunciation.md)
 - [Goodwill](eightfold-path/2-right-intention/03-goodwill.md)
 - [Harmlessness](eightfold-path/2-right-intention/04-harmlessness.md)
+- [Working with Obstacles](eightfold-path/2-right-intention/05-working-with-obstacles.md)
 
 3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.  
 
