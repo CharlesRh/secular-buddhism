@@ -54,5 +54,5 @@ Each lesson includes:
 
 ## Resources
 
-- [Eightfold Path Summary](eightfold-path-summary.md) - A concise overview of the path
+- [Eightfold Path Summary](overview-tldr.md) - A concise overview of the path
 - [Glossary of Buddhist Terms](glossary.md) - Reference guide for Pali and Buddhist terminology
