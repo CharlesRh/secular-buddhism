@@ -24,6 +24,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Goodwill](eightfold-path/2-right-intention/03-goodwill.md)
 - [Harmlessness](eightfold-path/2-right-intention/04-harmlessness.md)
 - [Working with Obstacles](eightfold-path/2-right-intention/05-working-with-obstacles.md)
+- [Relationships](eightfold-path/2-right-intention/06-relationships.md)
 
 3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.  
 
@@ -53,4 +54,5 @@ Each lesson includes:
 
 ## Resources
 
+- [Eightfold Path Summary](eightfold-path-summary.md) - A concise overview of the path
 - [Glossary of Buddhist Terms](glossary.md) - Reference guide for Pali and Buddhist terminology
