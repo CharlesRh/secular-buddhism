@@ -46,7 +46,8 @@ They support each other in several ways:
 - Harmlessness naturally follows when we combine renunciation's wisdom with goodwill's warmth
 - Together, they address our relationship with desires, with other beings, and with our actions
 
-While we might emphasize different aspects in different situations, the fully developed path includes all three.
+> [!IMPORTANT]
+> While we might emphasize different aspects in different situations, the fully developed path includes all three.
 
 ### From Personal to Universal
 
