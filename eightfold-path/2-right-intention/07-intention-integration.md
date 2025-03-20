@@ -34,7 +34,8 @@ This process unfolds in stages:
 4. With practice, our new intentions become more natural and spontaneous
 5. Eventually, wholesome responses become our default
 
-**This is why patience and persistence are so important—we're not just making isolated choices but rewiring deeply ingrained habits.**
+> [!IMPORTANT]
+>This is why patience and persistence are so important—we're not just making isolated choices but rewiring deeply ingrained habits.
 
 ### The Relationship Between the Three Intentions
 
@@ -46,8 +47,8 @@ They support each other in several ways:
 - Harmlessness naturally follows when we combine renunciation's wisdom with goodwill's warmth
 - Together, they address our relationship with desires, with other beings, and with our actions
 
-> [!IMPORTANT]
-> While we might emphasize different aspects in different situations, the fully developed path includes all three.
+
+While we might emphasize different aspects in different situations, the fully developed path includes all three.
 
 ### From Personal to Universal
 
