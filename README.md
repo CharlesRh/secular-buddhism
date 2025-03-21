@@ -27,7 +27,8 @@ The course is organized into eight main sections, following the traditional elem
 - [Relationships](eightfold-path/2-right-intention/06-relationships.md)
 - [Integration and Moving Forward](eightfold-path/2-right-intention/07-intention-integration.md)
 
-3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.  
+3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.
+- [The Foundation of Ethical Communication](eightfold-path/3-right-speech/01-foundation-of-right-speech.md)
 
 4. **Right Action** - Act ethically and responsibly by making choices that do not harm other beings, engaging in social justice, and practicing environmental stewardship.  
 
