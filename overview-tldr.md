@@ -1,4 +1,4 @@
-# The Eightfold Path: A Concise Guide
+# The Eightfold Path: A Concise Guide (TLDR)
 
 The Eightfold Path offers a practical framework for living with greater wisdom, ethics, and mental well-being. Rather than a sequential checklist, think of these eight aspects as interconnected dimensions of a balanced life that mutually strengthen each other.
 
