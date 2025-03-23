@@ -30,6 +30,7 @@ The course is organized into eight main sections, following the traditional elem
 3. **Right Speech** - Use speech constructively. Speak truthfully, avoid gossip, and communicate in ways that foster peacefulness and understanding. Listen deeply before responding.
 - [The Foundation of Ethical Communication](eightfold-path/3-right-speech/01-foundation-of-right-speech.md)
 - [Truthfulness](eightfold-path/3-right-speech/02-truthfulness.md)
+- [Harmonious Speech](eightfold-path/3-right-speech/03-harmonious-speech.md)
 
 4. **Right Action** - Act ethically and responsibly by making choices that do not harm other beings, engaging in social justice, and practicing environmental stewardship.  
 
