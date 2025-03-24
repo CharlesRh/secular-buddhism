@@ -1,5 +1,5 @@
 # The Eightfold Path: A Practical Guide
-## Week 3, Day 5: Right Speech - Speaking Truth to Power
+## Week 3, Day 4: Right Speech - Speaking Truth to Power
 
 ### The Courage of Compassionate Speech
 
