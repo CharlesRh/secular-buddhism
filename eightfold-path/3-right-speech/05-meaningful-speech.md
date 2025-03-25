@@ -3,7 +3,7 @@
 
 ### The Value of Words Well Chosen
 
-Today we explore the fourth aspect of Right Speech: meaningful speech, which in Pali is called *samphappalāpā veramaṇī* (abstaining from idle chatter). While the previous aspects of Right Speech addressed truthfulness, harmony, and gentleness, this aspect focuses on speaking with purpose and substance.
+Today we explore the fourth aspect of Right Speech: meaningful speech, which in Pali is called *samphappalāpā veramaṇī* (abstaining from idle chatter). While the previous aspects of Right Speech addressed truthfulness, harmony, and truth to power, this aspect focuses on speaking with purpose and substance.
 
 The Buddha emphasized the importance of meaningful communication:
 
@@ -32,7 +32,7 @@ Discussing others' lives without any meaningful intention beyond entertainment o
 
 The Buddha noted that such speech depletes our energy and attention while adding nothing of value:
 
->"Just as if there were a great tree, with no heartwood, a mere coreless tree... it is the same with a person of wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, & wrong concentration: If they are generous... it will lead to their long-term harm & suffering."
+>"Just as if there were a great tree, with no heartwood, a mere coreless tree... it is the same with a person of wrong view, wrong resolve, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness, and wrong concentration: If they are generous... it will lead to their long-term harm and suffering."
 
 ### The Power of Meaningful Speech
 
@@ -89,7 +89,7 @@ Practicing meaningful speech in digital contexts might involve:
 
 ### Speech as a Limited Resource
 
-The Buddha recognized something modern research confirms: our attention and energy are limited resources. Every word we speak or consume either depletes or nourishes these resources.
+The Buddha recognized something modern research confirms: **our attention and energy are limited resources**. Every word we speak or consume either depletes or nourishes these resources.
 
 Meaningful speech treats words as valuable rather than unlimited or disposable. This perspective naturally leads to:
 - More selective speaking and listening
