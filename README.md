@@ -33,6 +33,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Harmonious Speech](eightfold-path/3-right-speech/03-harmonious-speech.md)
 - [Speaking Truth to Power](eightfold-path/3-right-speech/04-speaking-truth-to-power.md)
 - [Meaningful Speech](eightfold-path/3-right-speech/05-meaningful-speech.md)
+- [Difficult Conversations](eightfold-path/3-right-speech/06-difficult-conversations.md)
 
 4. **Right Action** - Act ethically and responsibly by making choices that do not harm other beings, engaging in social justice, and practicing environmental stewardship.  
 
