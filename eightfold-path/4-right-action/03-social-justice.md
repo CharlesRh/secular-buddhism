@@ -127,6 +127,14 @@ Right Action in relation to social justice might involve engagement with issues 
 - Working for economic systems that serve human needs rather than pure profit
 - Creating alternatives to exploitative economic arrangements
 
+**LGBTQ+ Rights**
+
+- Supporting the right of all people to live authentically according to their gender identity
+- Defending transgender people's access to healthcare, safe spaces, and legal recognition
+- Challenging discriminatory policies that target LGBTQ+ communities
+- Creating spiritual communities that welcome and affirm LGBTQ+ practitioners
+- Recognizing how recent policy shifts have created particular vulnerability for transgender people
+
 **Racial Justice and Decolonization**
 - Dismantling systems of racial hierarchy
 - Supporting indigenous sovereignty and rights
