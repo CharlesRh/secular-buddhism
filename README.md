@@ -39,6 +39,7 @@ The course is organized into eight main sections, following the traditional elem
 4. **Right Action** - Act ethically and responsibly by making choices that do not harm other beings, engaging in social justice, and practicing environmental stewardship.  
 - [Do No Harm](eightfold-path/4-right-action/01-do-no-harm.md)
 - [Environmental Ethics](eightfold-path/4-right-action/02-environmental-ethics.md)
+- [Social Justice and Collective Harm](eightfold-path/4-right-action/03-social-justice.md)
 
 5. **Right Livelihood** - Choose work that contributes positively to your well-being and that of others. Approach work mindfully and with integrity. Avoid jobs that cause harm or exploit others.  
 
