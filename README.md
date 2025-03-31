@@ -4,6 +4,8 @@ A practical guide to exploring and implementing the Buddha's Eightfold Path in c
 
 New content will be added daily-ish, one lesson per day, over the course of eight weeks. Each week will explore one aspect of the path, with each lesson building on the previous one.
 
+But this course doesn't need to be completed in eight weeks. If a particular lesson resonates, stay focused on it longer to reinforce the teaching. Likewise, you might briefly revisit earlier lessons as you develop deeper understanding. There's not a right or wrong way to use this resource—the path unfolds differently for each person.
+
 ## Structure
 
 The course is organized into eight main sections, following the traditional elements of the path:
