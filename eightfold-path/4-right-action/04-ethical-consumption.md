@@ -15,7 +15,14 @@ The Buddhist perspective also helps us understand the **limits of consumer activ
 
 ### The Middle Way of Ethical Consumption
 
-As with all aspects of the path, ethical consumption invites us to find the **Middle Way** between extremes. We neither ignore the impacts of our consumption nor demand impossible purity of ourselves or others. We make the most ethical individual choices available to us while also working toward systems that make ethical choices accessible to all. Sometimes the most ethical choice is not to consume at all; other times, it's to support the most beneficial options available. Throughout, we hold ourselves and systems accountable without falling into self-righteousness or harsh judgment of others. This balanced approach allows us to engage with ethical consumption as a practice rather than a rigid set of rules or an identity.
+As with all aspects of the path, ethical consumption invites us to find the **Middle Way** between extremes:
+
+- Between indifference and perfectionism: Neither ignoring impacts nor demanding impossible purity
+- Between individual and collective: Making ethical personal choices while working for systemic change
+- Between abstention and engagement: Sometimes not consuming, sometimes supporting beneficial options
+- Between judgment and accountability: Holding systems accountable without self-righteousness
+
+This balanced approach allows us to engage with ethical consumption as a practice rather than a rigid set of rules or an identity.
 
 ### Food Choices and Their Impact
 
@@ -39,7 +46,12 @@ More beneficial approaches to clothing might include buying fewer, higher-qualit
 
 Our digital lives also involve ethical consumption choices. The production of electronic devices entails **hidden costs**: mining for rare minerals often involves exploitative labor and environmental destruction; manufacturing conditions in electronics factories can be dangerous and dehumanizing; rapid upgrade cycles create mountains of e-waste that pollute communities; and energy use for data centers and cloud services contributes to climate change.
 
-Beyond the devices themselves, the **platform ethics** of digital services raise additional concerns. Some major platforms have business models based on surveillance and addiction. Content moderation policies often fall heaviest on already marginalized communities. Tech monopolies concentrate power and undermine democratic processes, while algorithms can reinforce discrimination and extremism.
+Beyond the devices themselves, the **platform ethics** of digital services raise additional concerns:
+
+- Some major platforms have business models based on surveillance and addiction
+- Content moderation policies often fall heaviest on already marginalized communities
+- Tech monopolies concentrate power and undermine democratic processes
+- Algorithms can reinforce discrimination and extremism
 
 More beneficial digital choices might include extending the life of devices through repair and refurbishment, supporting companies that prioritize repairability and fair labor, being selective about which platforms and services we use, practicing mindful engagement with digital technologies, and supporting regulations that protect privacy and prevent exploitation.
 
@@ -53,7 +65,12 @@ A Buddhist approach emphasizes **wise discernment** rather than rigid rules. Thi
 
 ### From Mindless to Mindful Consumption
 
-Beyond specific purchasing decisions, ethical consumption involves a fundamental shift in our relationship with acquiring and owning. Our consumer culture deliberately creates **artificial desires** through advertising that manufactures discontent with what we have, planned obsolescence that renders functioning items "outdated," status competition that attaches identity to ownership, and convenience culture that devalues skill, patience, and self-reliance.
+Beyond specific purchasing decisions, ethical consumption involves a fundamental shift in our relationship with acquiring and owning. Our consumer culture deliberately creates **artificial desires** through:
+
+- Advertising that manufactures discontent with what we have
+- Planned obsolescence that renders functioning items "outdated"
+- Status competition that attaches identity to ownership
+- Convenience culture that devalues skill, patience, and self-reliance
 
 The Buddhist principle of **contentment** (*santutthi*) offers a powerful alternative. We can find satisfaction in sufficiency rather than excess, distinguish between genuine needs and conditioned wants, derive well-being from relationships, creativity, and purpose rather than acquisition, and experience the freedom that comes with wanting less.
 
@@ -69,7 +86,12 @@ Singer's "drowning child" thought experiment applies here: If we would ruin our 
 
 How might we begin to align our consumption more fully with our values? A thoughtful approach begins with **awareness**. Before making changes, simply observe your current patterns by tracking your purchases for a week, researching the supply chains of products you regularly buy, and identifying areas where your consumption may have the greatest impact.
 
-Rather than trying to change everything at once, focus on **high-impact areas** first. These might include food choices (particularly regarding animal products), transportation and energy use, major purchases like vehicles and appliances, and financial investments and banking.
+Rather than trying to change everything at once, focus on **high-impact areas** first:
+
+- Food choices (particularly regarding animal products)
+- Transportation and energy use
+- Major purchases like vehicles and appliances
+- Financial investments and banking
 
 Make ethical choices easier by creating **supportive conditions**. Find local sources for more ethical alternatives, connect with others practicing similar values, develop skills that reduce dependence on harmful products, and set up systems that make ethical choices the default.
 
@@ -77,7 +99,11 @@ Remember that individual consumption exists within larger systems, so balance pe
 
 ### Practical Reflection
 
-Take time to consider: Which areas of your consumption have the greatest impact on others' well-being? What specific changes would align your consumption more closely with your values? What obstacles (practical, social, or psychological) make ethical consumption challenging for you? How might simplifying some areas of consumption create greater freedom in your life?
+Take time to consider:
+- Which areas of your consumption have the greatest impact on others' well-being?
+- What specific changes would align your consumption more closely with your values?
+- What obstacles (practical, social, or psychological) make ethical consumption challenging for you?
+- How might simplifying some areas of consumption create greater freedom in your life?
 
 ### Today's Practice
 
