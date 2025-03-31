@@ -21,7 +21,9 @@ When approached mindfully, community service becomes not just something we do bu
 
 **Overcoming Separation**: Genuine service dissolves the illusion of separation between "helper" and "helped." We recognize our shared humanity and the ways we receive even as we give.
 
-The Thai forest monk Ajahn Chah described this integration: "If you want to practice dharma, practice as if everything is supporting your journey—because it is."
+The Thai forest monk Ajahn Chah described this integration: 
+
+>"If you want to practice dharma, practice as if everything is supporting your journey—because it is."
 
 ### The Near and Far Enemies of Service
 
