@@ -5,7 +5,9 @@
 
 Today we explore how Right Action manifests through community engagement and service to others. While Buddhist practice is often perceived as a solitary pursuit focused on individual transformation, the Buddha consistently emphasized that genuine spiritual development happens within community (*sangha*) and naturally expresses itself through service.
 
-The principle of **interdependence** (*paticca-samuppada*) reminds us that we exist only in relationship with countless others. Our well-being is inseparable from the well-being of our communities. This understanding naturally leads to engagement—not as an additional obligation but as a natural expression of wisdom and compassion. As the 14th Dalai Lama expressed: **"Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them."**
+The principle of **interdependence** (*paticca-samuppada*) reminds us that we exist only in relationship with countless others. Our well-being is inseparable from the well-being of our communities. This understanding naturally leads to engagement—not as an additional obligation but as a natural expression of wisdom and compassion. As the 14th Dalai Lama expressed: 
+
+>"Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them."
 
 ### Service as Spiritual Practice
 
