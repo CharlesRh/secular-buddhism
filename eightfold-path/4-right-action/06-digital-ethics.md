@@ -118,3 +118,5 @@ Take time to consider: What aspects of your digital life feel most aligned with 
 Today, experiment with one aspect of more mindful digital engagement. You might take a selective fast from a challenging digital activity, practice checking a reactive response before posting or sharing, explore one issue through diverse, high-quality information sources, notice and respond to bodily needs during screen time, or establish one new boundary that supports digital well-being.
 
 As you engage in this practice, notice how it affects your experience and the quality of your digital actions. Remember that like all aspects of the path, digital ethics is a practice—something we develop gradually through consistent attention and intention, learning and adjusting as we go.
+
+[^1]: Jonathan Haidt, "Why the Past 10 Years of American Life Have Been Uniquely Stupid," The Atlantic, April 2022.
