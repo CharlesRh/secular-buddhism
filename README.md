@@ -44,7 +44,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Social Justice and Collective Harm](eightfold-path/4-right-action/03-social-justice.md)
 - [Ethical Consumption](eightfold-path/4-right-action/04-ethical-consumption.md)
 - [Community Engagement and Service](eightfold-path/4-right-action/05-community-engagement.md)
-- [Digital Ethics and Mindful Tehcnology Use](eightfold-path/4-right-action/06-digital-ethics.md)
+- [Digital Ethics and Mindful Technology Use](eightfold-path/4-right-action/06-digital-ethics.md)
 
 5. **Right Livelihood** - Choose work that contributes positively to your well-being and that of others. Approach work mindfully and with integrity. Avoid jobs that cause harm or exploit others.  
 
