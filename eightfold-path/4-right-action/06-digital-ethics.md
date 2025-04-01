@@ -57,6 +57,8 @@ These practices help create digital spaces characterized by understanding rather
 
 Many social media platforms are designed to maximize engagement through provoking strong emotions, particularly outrage and indignation. While righteous anger has its place, constant outrage undermines both personal well-being and effective action. 
 
+Social psychologist Jonathan Haidt describes this dynamic powerfully in his research on social media's effects: "Social media has given a megaphone to anyone who can express moral outrage. The algorithms that determine what we see reward the expression of anger and outrage because these emotions generate the most engagement. The result is that the angriest, most polarizing voices dominate our collective attention."[^1] His work shows how these platforms can transform mild disagreements into apparent moral chasms, creating an environment where nuance is lost and the most extreme voices gain prominence.
+
 A more balanced approach includes noticing emotional reactions without immediately amplifying or acting on them. It seeks understanding before judgment and focuses on issues rather than demonizing individuals or groups. This perspective chooses constructive engagement over performative virtue signaling, and it balances awareness of problems with recognition of positive developments.
 
 This approach allows us to remain engaged with important issues without being consumed by the "outrage machine" that dominates many platforms.
