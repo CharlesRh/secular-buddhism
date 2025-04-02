@@ -73,7 +73,7 @@ This balanced approach allows us to engage with ethical action as a practice rat
 Several challenges commonly arise as we deepen our practice of Right Action. Recognizing these can help us navigate them skillfully:
 
 **Information Overload and Analysis Paralysis**
-With so much information about the impacts of our choices, we can become overwhelmed and unable to act. The antidote is to focus on high-impact areas first, make the best decisions we can with available information, and remember that imperfect action is better than paralyzed inaction.
+With so much information about the impacts of our choices, we can become overwhelmed and unable to act. The antidote is to focus on high-impact areas first, make the best decisions we can with available information, and remember that **imperfect action is better than paralyzed inaction**.
 
 **Balancing Urgency and Self-Care**
 Many ethical issues feel urgent, which can lead to burnout if we don't balance engagement with renewal. Sustainable action requires rhythms of effort and rest, recognizing that our capacity for ethical action depends on maintaining our own well-being.
