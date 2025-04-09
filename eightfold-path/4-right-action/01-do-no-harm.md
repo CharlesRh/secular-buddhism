@@ -5,7 +5,9 @@
 
 As we begin our fourth week, we cross an important threshold on the Eightfold Path. We move from understanding (Right View), intention (Right Intention), and communication (Right Speech) into the realm of direct action in the world. This transition marks a shift from how we see and speak to how we actively engage with life through our conduct.
 
-Jon Kabat-Zinn captured this transition perfectly when he observed: "When I was a Buddhist, it drove my parents and friends crazy, but when I am a buddha, nobody is upset at all." 
+Jon Kabat-Zinn captured this transition perfectly when he observed: 
+
+>"When I was a Buddhist, it drove my parents and friends crazy, but when I am a buddha, nobody is upset at all." 
 
 This simple insight points to a fundamental truth: embodying wisdom through our actions speaks more powerfully than any identity we might claim or philosophy we might espouse. Right Action invites us to move beyond merely understanding Buddhist principles or talking about them to actually living them through our daily conduct.
 
