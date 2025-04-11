@@ -47,7 +47,8 @@ The course is organized into eight main sections, following the traditional elem
 - [Digital Ethics and Mindful Technology Use](eightfold-path/4-right-action/06-digital-ethics.md)
 - [Integration and Moving Forward](eightfold-path/4-right-action/07-action-integration.md)
 
-5. **Right Livelihood** - Choose work that contributes positively to your well-being and that of others. Approach work mindfully and with integrity. Avoid jobs that cause harm or exploit others.  
+5. **Right Livelihood** - Choose work that contributes positively to your well-being and that of others. Approach work mindfully and with integrity. Avoid jobs that cause harm or exploit others.
+- [The Foundation of Economic Ethics](eightfold-path/5-right-livelihood/01-economic-ethics.md)
 
 6. **Right Effort** - Cultivate positive states of mind and work to reduce negative thoughts and actions. Balance energy between excessive striving and complacency. Engage in regular self-reflection and mental discipline.  
 
