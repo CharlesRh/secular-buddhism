@@ -98,10 +98,6 @@ Bringing full attention to our tasks cultivates the same qualities of mind that 
 **Direct Service to Others**
 Many forms of work directly address others' needs, allowing us to express care through our professional skills. Even in jobs not explicitly focused on service, we can approach tasks with the intention to benefit those affected by our work.
 
-When we view work through this lens, the boundary between livelihood and spiritual practice dissolves. As Zen teacher Bernie Glassman expressed:
-
->"The workplace is a practice field: our actions there have real consequences, our mistakes lead to genuine learning, and our contributions affect others in tangible ways."
-
 ### The Middle Way in Livelihood
 
 As with all aspects of the path, Right Livelihood invites us to find the Middle Way between extremes:
