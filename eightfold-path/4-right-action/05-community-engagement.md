@@ -85,6 +85,12 @@ As with all aspects of the path, community engagement benefits from finding the 
 
 This balanced approach helps us engage in sustainable ways that honor both the urgency of suffering and the reality of our human constraints.
 
+The path of community engagement often begins with this simple principle: 
+
+>**"Do what you can, with what you have, where you are."** 
+
+This wisdom, attributed to Theodore Roosevelt, captures the essence of the Middle Way in service. Rather than being paralyzed by the gap between our ideals and our capacity, this approach invites us to begin with what's actually possible in our current circumstances. It acknowledges limitations without using them as excuses for inaction. When we embrace this mindset, service becomes neither an overwhelming burden nor a token gesture, but a sustainable practice that grows naturally from our present reality. The most effective change-makers throughout history haven't waited for perfect conditions or unlimited resources—they've started where they were, using whatever tools were at hand, taking one meaningful step after another.
+
 ### Practical Approaches to Engaged Service
 
 How might we bring Right Action into community service? Consider these approaches:
