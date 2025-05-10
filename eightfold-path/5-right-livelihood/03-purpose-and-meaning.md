@@ -12,8 +12,11 @@ The Buddha recognized that livelihood isn't merely about survival but about how 
 The Japanese concept of ikigai offers a valuable framework for thinking about purposeful work. Ikigai represents the intersection of four elements:
 
 **What you love** (passion)
+
 **What you're good at** (vocation)
+
 **What the world needs** (mission)
+
 **What you can be paid for** (profession)
 
 While perfect alignment of all four elements might be rare, this framework helps us identify where our current work stands and how we might move toward greater integration. The Buddha's teaching on Right Livelihood can be understood as seeking this integration—work that supports material needs while expressing our deepest values.
