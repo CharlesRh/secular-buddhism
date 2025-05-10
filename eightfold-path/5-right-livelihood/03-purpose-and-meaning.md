@@ -5,7 +5,7 @@
 
 We've explored how our work affects others and the world. Today we turn inward to examine our subjective relationship with work. Even when external circumstances aren't ideal, our internal orientation to work profoundly affects both our well-being and spiritual development.
 
-The Buddha recognized that livelihood isn't merely about survival but about how we participate in the world and express our values. In contemporary life, where many of us spend most of our waking hours working, finding meaning becomes especially important. As philosopher Roman Krznaric suggests, the question isn't just "What do I want from work?" but "What does work want from me?"—what contribution am I uniquely positioned to make?
+The Buddha recognized that livelihood isn't merely about survival but about how we participate in the world and express our values. In contemporary life, where many of us spend most of our waking hours working, finding meaning becomes especially important. Many philosophers and career counselors suggest that instead of just asking what we want from work, we might consider what unique contribution we're positioned to make.
 
 ### Aligning Work with Values: The Ikigai Framework
 
@@ -30,11 +30,11 @@ Most of us work in situations that fall short of ideal integration. Economic nec
 
 **Growth Orientation** approaches work as a field for developing valuable qualities. Nearly any job offers opportunities to cultivate patience, communication skills, problem-solving, or resilience. When we approach work with the intention to grow, even challenges become meaningful.
 
-Writer Howard Thurman captured this perspective: "Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive." This isn't about self-indulgence but recognizing that bringing our full vitality to work—whatever that work may be—creates ripples of benefit beyond what we might consciously intend.
+Many spiritual teachers suggest that bringing our full vitality and presence to work—whatever that work may be—creates ripples of benefit beyond what we might consciously intend.
 
 ### Work as Meditation: The Practice of Mindful Engagement
 
-When approached with awareness, work offers unique opportunities for meditation in action. Thich Nhat Hanh emphasized this integration through his teaching on "work meditation" at Plum Village, where everyday tasks are approached as meditation practices. As he wrote in "The Miracle of Mindfulness":
+When approached with awareness, work offers unique opportunities for meditation in action. Thich Nhat Hanh emphasized this integration through his teaching on "work meditation" at Plum Village, where everyday tasks are approached as meditation practices. In "The Miracle of Mindfulness," he writes:
 
 >"Washing the dishes is at the same time a means and an end—that is, not only do we do the dishes in order to have clean dishes, we also do the dishes just to do the dishes, to live fully in each moment while washing them."
 
@@ -48,7 +48,7 @@ This approach transforms even mundane work into a practice of presence. We can b
 
 **Transition Mindfulness**: Paying attention to the spaces between tasks—taking three conscious breaths before beginning new activities or creating small rituals that mark boundaries between different types of work.
 
-These practices don't require additional time but rather a shift in how we engage with the time we're already spending. As Zen teacher Robert Aitken observed, "Work is not separate from practice; it is practice."
+These practices don't require additional time but rather a shift in how we engage with the time we're already spending. In Zen Buddhism, there is no fundamental separation between work and practice; each activity becomes an opportunity for awakening.
 
 ### Meaning Beyond the Personal: Contribution to Something Larger
 
@@ -58,7 +58,7 @@ Developmental psychologist Erik Erikson identified "generativity"—contributing
 
 This orientation toward contribution can transform even difficult work circumstances. A healthcare worker enduring a broken system finds meaning in each patient treated with dignity. A teacher working with limited resources draws purpose from students whose lives are changed. A person in a seemingly mundane job discovers significance in maintaining systems that others depend upon.
 
-The Dalai Lama expresses this perspective by emphasizing that helping others is the surest path to our own happiness. From this viewpoint, seeking meaning in work isn't self-centered but a recognition that we flourish most fully when contributing to others' well-being.
+The Dalai Lama often emphasizes that helping others is the surest path to our own happiness. From this viewpoint, seeking meaning in work isn't self-centered but a recognition that we flourish most fully when contributing to others' well-being.
 
 ### Navigating Meaningless Work: When Values and Livelihood Conflict
 
@@ -72,13 +72,13 @@ Despite our best efforts, some work situations may remain profoundly misaligned 
 
 **Strategic Planning**: Maintaining focus on creating pathways to more aligned work through skill development or identifying intermediate steps toward meaningful livelihood.
 
-The Buddha's teaching on Right Effort offers wisdom here—we practice "abandoning what is unwholesome, cultivating what is wholesome, and purifying the mind through balanced effort." This approach neither denies current reality nor accepts it as unchangeable, but works diligently toward transformation.
+The Buddha's teaching on Right Effort encompasses abandoning what is unwholesome, cultivating what is wholesome, and purifying the mind through balanced effort. This approach neither denies current reality nor accepts it as unchangeable, but works diligently toward transformation.
 
 ### Material Success and Spiritual Purpose: Beyond False Dichotomies
 
 The Buddha's Middle Way challenges the artificial opposition between material success and spiritual values. Indeed, the original context of Buddhist practice included merchants and professionals fully engaged in economic activity.
 
-Financial sufficiency creates conditions that support spiritual development—meeting basic needs, providing security, and enabling generosity. As the Buddha taught lay followers like Anathapindika (a wealthy merchant), ethical prosperity can serve spiritual aims when wealth is:
+Financial sufficiency creates conditions that support spiritual development—meeting basic needs, providing security, and enabling generosity. The Buddha taught lay followers like Anathapindika (a wealthy merchant) that ethical prosperity can serve spiritual aims when wealth is:
 
 1. Acquired through righteous means
 2. Used for the well-being of oneself and dependents
