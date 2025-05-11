@@ -51,7 +51,7 @@ The course is organized into eight main sections, following the traditional elem
 - [The Foundation of Economic Ethics](eightfold-path/5-right-livelihood/01-economic-ethics.md)
 - [Harmful and Beneficial Livelihoods](eightfold-path/5-right-livelihood/02-livelihoods.md)
 - [Purpose and Meaning in Work](eightfold-path/5-right-livelihood/03-purpose-and-meaning.md)
-
+- [Navigating Workplace Ethics](eightfold-path/5-right-livelihood/04-navigating-workplace-ethics.md)
 
 6. **Right Effort** - Cultivate positive states of mind and work to reduce negative thoughts and actions. Balance energy between excessive striving and complacency. Engage in regular self-reflection and mental discipline.  
 
