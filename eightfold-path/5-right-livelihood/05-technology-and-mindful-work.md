@@ -70,10 +70,10 @@ The Buddhist teaching on wise consumption applies here: we can choose to support
 Choose one specific aspect of your digital work life that feels problematic—perhaps constant email checking, notification overwhelm, or difficulty staying present during video calls.
 
 For just today, experiment with a single small change:
-• Turn off non-essential notifications for three hours
-• Check email only at designated times
-• Practice giving full attention during one important digital interaction
-• Take a five-minute break between video calls to breathe and center yourself
+- Turn off non-essential notifications for three hours
+- Check email only at designated times
+- Practice giving full attention during one important digital interaction
+- Take a five-minute break between video calls to breathe and center yourself
 
 Notice how this small adjustment affects your stress level, focus quality, and overall work experience. There's no need to make dramatic changes all at once—small, mindful shifts in how we use technology can create significant improvements in our work life and well-being.
 
