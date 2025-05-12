@@ -29,7 +29,7 @@ Buddhist practice offers several approaches to working more skillfully with tech
 
 **Single-tasking** challenges the myth of multitasking. Neuroscience confirms what contemplatives have long known: divided attention reduces both quality and efficiency. Choose one primary focus and give it your full attention, whether it's a conversation, a document, or a problem-solving task.
 
-The Vietnamese teacher Thich Nhat Hanh applied this wisdom to modern life: "The most precious gift we can offer others is our presence. When mindfulness embraces those we love, they will bloom like flowers."
+In Buddhist teachings, giving others our full attention is considered one of the most precious gifts we can offer. When we bring mindfulness to our interactions, whether digital or in-person, we create space for genuine connection and understanding.
 
 ### Creating Healthier Digital Boundaries
 
