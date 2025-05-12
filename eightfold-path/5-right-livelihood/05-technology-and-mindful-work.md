@@ -11,11 +11,11 @@ The Buddha's teaching on the Middle Way provides valuable guidance here. We seek
 
 Most workers today face similar technology-related challenges:
 
-• **Constant connectivity** making it difficult to be fully present with any single task or person
-• **Notification overload** fragmenting attention and increasing stress
-• **Blurred boundaries** between work and personal time
-• **Digital overwhelm** from processing endless streams of information
-• **Shallow engagement** jumping between platforms rather than doing deep work
+- **Constant connectivity** making it difficult to be fully present with any single task or person
+- **Notification overload** fragmenting attention and increasing stress
+- **Blurred boundaries** between work and personal time
+- **Digital overwhelm** from processing endless streams of information
+- **Shallow engagement** jumping between platforms rather than doing deep work
 
 These challenges directly impact our practice of Right Livelihood by affecting our well-being, our relationships with colleagues, and the quality of our work.
 
