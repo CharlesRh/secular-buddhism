@@ -53,6 +53,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Purpose and Meaning in Work](eightfold-path/5-right-livelihood/03-purpose-and-meaning.md)
 - [Navigating Workplace Ethics](eightfold-path/5-right-livelihood/04-navigating-workplace-ethics.md)
 - [Technology and Mindful Work](eightfold-path/5-right-livelihood/05-technology-and-mindful-work.md)
+- [Work-Life Balance and Sustainable Engagement](eightfold-path/5-right-livelihood/06-work-life-balance.md)
 
 6. **Right Effort** - Cultivate positive states of mind and work to reduce negative thoughts and actions. Balance energy between excessive striving and complacency. Engage in regular self-reflection and mental discipline.  
 
