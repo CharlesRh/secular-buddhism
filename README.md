@@ -57,7 +57,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Integration and Moving Forward](eightfold-path/5-right-livelihood/07-integration-and-moving-forward.md)
 
 6. **Right Effort** - Cultivate positive states of mind and work to reduce negative thoughts and actions. Balance energy between excessive striving and complacency. Engage in regular self-reflection and mental discipline.  
-
+- [The Four Applications of Right Effort](eightfold-path/6-right-effort/01-four-applications.md)
 7. **Right Mindfulness** - Practice mindfulness in daily activities: eating, walking, working. Be fully present and aware, observing your thoughts and emotions without judgment.  
 
 8. **Right Concentration** - Develop sustained, focused attention through meditation. Practice directing and maintaining awareness with clarity, stability, and tranquility.
