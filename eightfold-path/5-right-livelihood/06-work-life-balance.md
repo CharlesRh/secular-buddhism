@@ -27,11 +27,11 @@ This integration doesn't mean work should dominate other areas of life. Rather, 
 
 Several warning signs indicate that our relationship with work may be harming rather than supporting our well-being:
 
-• **Physical symptoms** like chronic fatigue, headaches, or sleep problems
-• **Mental symptoms** including difficulty concentrating, anxiety, or irritability
-• **Relational impacts** such as increased conflict with family or friends, or social isolation
-• **Spiritual emptiness** feeling disconnected from meaning or purpose
-• **Compulsive behaviors** like inability to stop checking email or thinking about work during off-time
+- **Physical symptoms** like chronic fatigue, headaches, or sleep problems
+- **Mental symptoms** including difficulty concentrating, anxiety, or irritability
+- **Relational impacts** such as increased conflict with family or friends, or social isolation
+- **Spiritual emptiness** feeling disconnected from meaning or purpose
+- **Compulsive behaviors** like inability to stop checking email or thinking about work during off-time
 
 Buddhism teaches that suffering is often a signal pointing us toward necessary changes. Rather than pushing through these symptoms, we can view them as information about how to adjust our approach.
 
@@ -68,11 +68,11 @@ This doesn't mean becoming careless or uncommitted. Rather, it means doing excel
 One key to sustainable engagement is creating meaningful transitions between work and other activities. Without such transitions, work mind tends to bleed into everything else, preventing true rest and presence with non-work activities.
 
 Simple transition rituals might include:
-• Taking three conscious breaths before leaving work
-• Changing clothes to mark the shift from professional to personal mode
-• Spending five minutes outdoors before entering your home
-• Practicing gratitude for the day's work before focusing on evening activities
-• Having a brief conversation with family about the day before moving into evening routines
+- Taking three conscious breaths before leaving work
+- Changing clothes to mark the shift from professional to personal mode
+- Spending five minutes outdoors before entering your home
+- Practicing gratitude for the day's work before focusing on evening activities
+- Having a brief conversation with family about the day before moving into evening routines
 
 These small rituals help create psychological completion for work tasks and openness to what comes next.
 
@@ -81,16 +81,16 @@ These small rituals help create psychological completion for work tasks and open
 Choose one area where your work-life integration feels problematic—perhaps you're working too many hours, bringing work stress home, or feeling disconnected from meaning in your job.
 
 Identify one specific boundary you could experiment with this week:
-• Establishing a firm end time for work on weekdays
-• Taking a full lunch break away from your desk
-• Creating a transition ritual between work and home
-• Protecting one evening per week for rest or relationships
-• Setting specific times for checking work email rather than responding immediately
+- Establishing a firm end time for work on weekdays
+- Taking a full lunch break away from your desk
+- Creating a transition ritual between work and home
+- Protecting one evening per week for rest or relationships
+- Setting specific times for checking work email rather than responding immediately
 
 Commit to trying this boundary for just one week, then notice:
-• How does it affect your stress levels and energy?
-• What resistance arises, and what does that teach you?
-• How do others respond to your boundary?
-• What adjustments might make it more sustainable?
+- How does it affect your stress levels and energy?
+- What resistance arises, and what does that teach you?
+- How do others respond to your boundary?
+- What adjustments might make it more sustainable?
 
 Remember that creating sustainable engagement is an ongoing practice, not a one-time fix. Like the Buddha's teaching on the middle way, it requires continuous adjustment based on changing circumstances and deeper understanding of what truly supports your well-being.
