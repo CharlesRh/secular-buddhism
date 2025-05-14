@@ -24,32 +24,32 @@ Throughout this week, several themes have emerged that transform how we understa
 As you continue this practice beyond our week together, consider developing a personal framework for Right Livelihood. This might include:
 
 **Regular reflection questions:**
-• Does my work align with my values of non-harm and benefit for others?
-• How can I bring greater presence and kindness to my workplace interactions?
-• What boundaries support both my productivity and well-being?
-• In what ways does my economic participation create positive or negative impacts?
+- Does my work align with my values of non-harm and benefit for others?
+- How can I bring greater presence and kindness to my workplace interactions?
+- What boundaries support both my productivity and well-being?
+- In what ways does my economic participation create positive or negative impacts?
 
 **Practical habits:**
-• Beginning each workday with a brief intention setting
-• Taking mindful breaks to reconnect with purpose and presence
-• Creating rituals that mark transitions between work and other activities
-• Regularly assessing whether your work situation supports or undermines your overall practice
+- Beginning each workday with a brief intention setting
+- Taking mindful breaks to reconnect with purpose and presence
+- Creating rituals that mark transitions between work and other activities
+- Regularly assessing whether your work situation supports or undermines your overall practice
 
 **Crisis navigation strategies:**
-• Having trusted advisors for difficult ethical decisions
-• Knowing your non-negotiable values and how to honor them in challenging situations
-• Maintaining financial practices that provide flexibility for ethical choices
-• Building skills and networks that expand your livelihood options
+- Having trusted advisors for difficult ethical decisions
+- Knowing your non-negotiable values and how to honor them in challenging situations
+- Maintaining financial practices that provide flexibility for ethical choices
+- Building skills and networks that expand your livelihood options
 
 ### From Right Livelihood to Right Effort
 
 As we prepare to explore Right Effort in Week 6, we can see how these two aspects of the path naturally connect. Right Livelihood establishes *what* we do with our time and energy, while Right Effort addresses *how* we engage with both work and spiritual practice.
 
 The Buddha taught Right Effort as involving four applications:
-• Preventing unwholesome states from arising
-• Abandoning unwholesome states that have arisen
-• Cultivating wholesome states
-• Maintaining wholesome states that have developed
+- Preventing unwholesome states from arising
+- Abandoning unwholesome states that have arisen
+- Cultivating wholesome states
+- Maintaining wholesome states that have developed
 
 These principles apply as much to our work life as to formal meditation practice. A job approached with Right Effort becomes a vehicle for developing beneficial qualities while reducing harmful patterns.
 
@@ -65,10 +65,10 @@ Remember that small changes often create significant long-term impacts. A more m
 
 The Buddha emphasized that we need community (*sangha*) to support our practice. This applies particularly to Right Livelihood, where social and economic pressures can make ethical choices challenging. Consider:
 
-• Finding or creating groups of like-minded people who share commitments to ethical work
-• Seeking mentors who model integration of values and livelihood
-• Offering support to others facing difficult choices about work
-• Engaging in broader movements for economic justice and workplace transformation
+- Finding or creating groups of like-minded people who share commitments to ethical work
+- Seeking mentors who model integration of values and livelihood
+- Offering support to others facing difficult choices about work
+- Engaging in broader movements for economic justice and workplace transformation
 
 We don't practice Right Livelihood in isolation but as part of interconnected communities that can either support or challenge our ethical commitments.
 
@@ -77,17 +77,17 @@ We don't practice Right Livelihood in isolation but as part of interconnected co
 Take 15-20 minutes for a comprehensive reflection on your week with Right Livelihood:
 
 First, review the key concepts we've explored:
-• Harmful and beneficial forms of work
-• Finding meaning regardless of circumstances
-• Navigating workplace ethics
-• Using technology mindfully
-• Creating sustainable work-life integration
+- Harmful and beneficial forms of work
+- Finding meaning regardless of circumstances
+- Navigating workplace ethics
+- Using technology mindfully
+- Creating sustainable work-life integration
 
 Then, consider these questions:
-• Which insights from this week most resonated with your experience?
-• What specific changes might you make to better align your livelihood with your values?
-• Where do you see opportunities to bring greater mindfulness to your work?
-• How might you continue developing Right Livelihood as the weeks ahead?
+- Which insights from this week most resonated with your experience?
+- What specific changes might you make to better align your livelihood with your values?
+- Where do you see opportunities to bring greater mindfulness to your work?
+- How might you continue developing Right Livelihood as the weeks ahead?
 
 Finally, set one concrete intention for applying Right Livelihood principles in the coming week. This might be something simple like beginning each workday with three mindful breaths, experimenting with email boundaries, or finding one way to express kindness in your workplace.
 
