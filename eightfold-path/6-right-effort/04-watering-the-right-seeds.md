@@ -53,6 +53,13 @@ When positive states naturally arise during the day—perhaps a spontaneous mome
 **Formal Meditation**
 The Buddha taught specific meditations for cultivating positive qualities. The most well-known is metta bhavana (loving-kindness meditation), where we systematically direct goodwill toward ourselves, benefactors, friends, neutral people, difficult people, and all beings. Similar practices exist for other positive qualities.
 
+Sharon Salzberg recommend repeating the following phrase during meditation, focusing on yourself, friends and family, and others, for the benefit of all beings.
+
+> May you be safe.\
+> May you be happy.\
+> May you be healthy.\
+> May you live with ease.
+
 **Environmental Support**
 We can create conditions that make positive seeds more likely to sprout. This might mean surrounding ourselves with inspiring people, reading texts that elevate the mind, spending time in nature, or engaging in activities that naturally evoke joy and generosity.
 
