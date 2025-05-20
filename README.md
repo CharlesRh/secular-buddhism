@@ -59,6 +59,9 @@ The course is organized into eight main sections, following the traditional elem
 6. **Right Effort** - Cultivate positive states of mind and work to reduce negative thoughts and actions. Balance energy between excessive striving and complacency. Engage in regular self-reflection and mental discipline.  
 - [The Four Applications of Right Effort](eightfold-path/6-right-effort/01-four-applications.md)
 - [Energy Management](eightfold-path/6-right-effort/02-energy-management.md)
+- [Working with Difficult Emotions](eightfold-path/6-right-effort/03-difficult-emotions.md)
+- [Watering the Right Seeds](eightfold-path/6-right-effort/04-watering-the-right-seeds.md)
+
 7. **Right Mindfulness** - Practice mindfulness in daily activities: eating, walking, working. Be fully present and aware, observing your thoughts and emotions without judgment.  
 
 8. **Right Concentration** - Develop sustained, focused attention through meditation. Practice directing and maintaining awareness with clarity, stability, and tranquility.
