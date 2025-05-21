@@ -61,6 +61,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Energy Management](eightfold-path/6-right-effort/02-energy-management.md)
 - [Working with Difficult Emotions](eightfold-path/6-right-effort/03-difficult-emotions.md)
 - [Watering the Right Seeds](eightfold-path/6-right-effort/04-watering-the-right-seeds.md)
+- [Effort in Daily Life](eightfold-path/6-right-effort/05-effort-in-daily-life.md)
 
 7. **Right Mindfulness** - Practice mindfulness in daily activities: eating, walking, working. Be fully present and aware, observing your thoughts and emotions without judgment.  
 
