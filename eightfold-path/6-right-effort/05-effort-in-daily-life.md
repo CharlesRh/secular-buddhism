@@ -35,9 +35,9 @@ This approach doesn't add time to your activities but transforms their quality. 
 
 During busy periods, Right Effort becomes especially important. The Buddha's teaching on balanced effort applies perfectly here. Just as a skilled musician neither tightens the string so much it breaks nor leaves it so loose it won't play, we can find a sustainable approach:
 
-- Prioritize based on values rather than urgency alone. While everything may seem urgent, clearly identifying what aligns with your deeper values helps direct limited energy where it matters most.
-- Build in micro-breaks even when you can't take extended rest. Three conscious breaths between activities helps prevent depletion.
-- Maintain basic self-care. Adequate sleep and simple nourishing food aren't luxuries during busy times but necessities that support sustainable effort.
+- Create small moments of presence within necessary tasks. Even when you can't choose what to do, you can choose how you attend to it—taking three conscious breaths while your computer boots up or feeling your feet on the ground while waiting in line.
+- Acknowledge your limits. Sometimes recognizing "This is difficult" or "I'm doing the best I can with what I have" creates a moment of self-compassion that prevents additional suffering on top of necessary strain.
+- Protect your basic physical needs. During intensely busy periods, even five minutes of rest, staying hydrated, or eating something nourishing can make a significant difference in your capacity to handle demands.
 
 ### Learning to Start and Stop
 
