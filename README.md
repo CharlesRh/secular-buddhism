@@ -63,6 +63,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Watering the Right Seeds](eightfold-path/6-right-effort/04-watering-the-right-seeds.md)
 - [Effort in Daily Life](eightfold-path/6-right-effort/05-effort-in-daily-life.md)
 - [Avoiding Spiritual Perfectionism](eightfold-path/6-right-effort/06-avoiding-spiritual-perfectionism.md)
+- [Integration and Moving Forward](eightfold-path/6-right-effort/07-right-effort-integration.md)
 
 7. **Right Mindfulness** - Practice mindfulness in daily activities: eating, walking, working. Be fully present and aware, observing your thoughts and emotions without judgment.  
 
