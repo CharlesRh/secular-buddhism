@@ -66,7 +66,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Integration and Moving Forward](eightfold-path/6-right-effort/07-right-effort-integration.md)
 
 7. **Right Mindfulness** - Practice mindfulness in daily activities: eating, walking, working. Be fully present and aware, observing your thoughts and emotions without judgment.  
-- [The Foundation of Present-Moment Awareness](eightfold-path/7-right-mindfulness/01-foundation.md)
+- [The Foundation of Present-Moment Awareness](eightfold-path/7-right-mindfulness/01-the-foundation.md)
 
 8. **Right Concentration** - Develop sustained, focused attention through meditation. Practice directing and maintaining awareness with clarity, stability, and tranquility.
 
