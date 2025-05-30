@@ -69,6 +69,7 @@ The course is organized into eight main sections, following the traditional elem
 - [The Foundation of Present-Moment Awareness](eightfold-path/7-right-mindfulness/01-the-foundation.md)
 - [Body and Breath Awareness](eightfold-path/7-right-mindfulness/02-body-and-breath.md)
 - [Working with the Five Hindrances in Practice](eightfold-path/7-right-mindfulness/03-five-hindrances.md)
+- [Mindfulness of Emotions and Feeling Tones](eightfold-path/7-right-mindfulness/04-emotions-and-feeling-tones.md)
 
 8. **Right Concentration** - Develop sustained, focused attention through meditation. Practice directing and maintaining awareness with clarity, stability, and tranquility.
 
