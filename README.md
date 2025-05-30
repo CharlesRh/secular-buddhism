@@ -89,4 +89,4 @@ Each lesson includes:
 ## Resources
 
 - [Eightfold Path Summary](overview-tldr.md) - A concise overview of the path
-- [Glossary of Buddhist Terms](glossary.md) - Reference guide for Pali and Buddhist terminology
+- [Noting Practice Cheat Sheet](noting.md) - A handy guide for noting practice
