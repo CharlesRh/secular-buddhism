@@ -94,7 +94,7 @@
  - "Unpleasant" when you notice the aversive quality
  - "Neutral" when an experience doesn't trigger immediate attraction or aversion
  
- The key is gentle, brief acknowledgment rather than elaborate analysis. As our [Noting Practice Guide](noting.md) explains, noting should be "like quietly acknowledging a friend's presence than making a dramatic announcement." The goal is creating space between you and your automatic reactions to pleasant and unpleasant experiences.
+ The key is gentle, brief acknowledgment rather than elaborate analysis. As our [Noting Practice Guide](https://github.com/CharlesRh/secular-buddhism/blob/main/noting.md) explains, noting should be "like quietly acknowledging a friend's presence than making a dramatic announcement." The goal is creating space between you and your automatic reactions to pleasant and unpleasant experiences.
  
  This practice is particularly powerful with feeling tones because it catches the reactive process at its very beginning—before craving and aversion fully develop into complex emotional patterns.
  
