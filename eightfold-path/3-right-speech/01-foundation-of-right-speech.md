@@ -17,7 +17,7 @@ Our words shape our reality in several ways:
 
 The Buddha recognized that speech can be a source of tremendous suffering or profound healing:
 
->"Beings are owners of their actions, heirs of their actions; they originate from their actions, are bound to their actions, have their actions as their refuge. It is action (*karma*) that distinguishes beings as inferior and superior."
+>"Beings are owners of their actions, heirs of their actions; they originate from their actions, are bound to their actions, have their actions as their refuge. It is action (*karma*) that distinguishes beings as inferior and superior." — *Majjhima Nikaya 135 (Culakammavibhanga Sutta)*
 
 ### The Four Aspects of Right Speech
 
@@ -47,7 +47,7 @@ The Buddha outlined Right Speech in terms of four restraints and their positive 
 
 While truthfulness is fundamental to Right Speech, the Buddha emphasized that not everything true should be spoken. He offered additional criteria:
 
->"I tell you, monks, there are five factors to consider before speaking: Is it the right time? Is it true? Is it beneficial? Is it spoken with kindness? Is it spoken from goodwill?"
+>"Monks, a statement endowed with five factors is well-spoken, not ill-spoken. It is blameless & unfaulted by knowledgeable people. Which five? It is spoken at the right time. It is spoken in truth. It is spoken affectionately. It is spoken beneficially. It is spoken with a mind of good-will." — *Anguttara Nikaya 5.198 (Vaca Sutta)*
 
 This nuanced approach recognizes that communication involves more than just factual accuracy—it requires sensitivity to context, impact, and purpose.
 
