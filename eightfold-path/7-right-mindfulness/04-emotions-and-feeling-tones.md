@@ -102,7 +102,7 @@
  
  Today, develop sensitivity to feeling tones by bringing attention to the immediate pleasant, unpleasant, or neutral quality of your experiences.
  
- **Formal practice** (15-20 minutes): Sit quietly and observe whatever arises in your awareness—sounds, physical sensations, thoughts, or memories. For each experience, practice gentle noting of its feeling tone before any elaborate mental reaction develops. Use the simple labels from our [Noting Practice Guide]([noting.md](https://github.com/CharlesRh/secular-buddhism/blob/main/noting.md): "pleasant," "unpleasant," or "neutral."
+ **Formal practice** (15-20 minutes): Sit quietly and observe whatever arises in your awareness—sounds, physical sensations, thoughts, or memories. For each experience, practice gentle noting of its feeling tone before any elaborate mental reaction develops. Use the simple labels from our [Noting Practice Guide](https://github.com/CharlesRh/secular-buddhism/blob/main/noting.md): "pleasant," "unpleasant," or "neutral."
  
  **Throughout the day**: Choose three routine activities and pay particular attention to their feeling tones. This might be drinking your morning coffee (often pleasant), dealing with traffic (often unpleasant), or folding laundry (often neutral). Notice how recognizing feeling tones affects your relationship with these activities.
  
