@@ -29,7 +29,7 @@ These patterns aren't character flaws but conditioned responses that mindfulness
 
 ### Present-Moment Awareness in Conversation
 
-Bringing mindfulness to conversation involves several layers of awareness. Oren Jay Sofer, in his book *Say What You Mean*, emphasizes three foundations that support mindful communication:
+Bringing mindfulness to conversation involves several layers of awareness. Oren Jay Sofer emphasizes [three foundations](https://www.meditatehappier.com/meditationblog/three-tools-for-more-effective-communication) that support mindful communication:
 
 **Presence** involves bringing complete attention to the conversation rather than multitasking or planning ahead. This includes body awareness—noticing your posture, breathing, and physical tension while listening and speaking. Often our bodies register emotional reactions before our minds are conscious of them.
 
