@@ -39,7 +39,7 @@ Bringing mindfulness to conversation involves several layers of awareness. Oren 
 
 ### Working with Difficult Conversations
 
-Mindful communication becomes especially important during conflict or when discussing sensitive topics. Oren Jay Sofer offers a helpful framework of four questions to consider before important conversations, from his blog post "Four Questions to Ask Yourself Before Speaking":
+Mindful communication becomes especially important during conflict or when discussing sensitive topics. Oren Jay Sofer offers a helpful framework of four questions to consider before important conversations, from his blog post [Four Questions to Ask Yourself Before Speaking](https://www.orenjaysofer.com/blog/four-questions):
 
 **What's my intention?** Intention is "where we're coming from inside, the heart quality that drives our words and actions." Sofer emphasizes choosing intentions like understanding, collaboration, or patience rather than being driven by blame or the need to be right.
 
