@@ -9,7 +9,7 @@ Mindful listening represents the bridge between formal meditation practice and t
 
 ### Deep Listening as Meditation Practice
 
-Thich Nhat Hanh taught deep listening as one of the most powerful mindfulness practices. In his book *True Love*, he writes about listening as "the kind of listening that can help relieve the suffering of another person." This goes far beyond merely waiting for our turn to speak or planning what we'll say next.
+Thich Nhat Hanh taught deep listening as one of the most powerful mindfulness practices. He writes about listening as "the kind of listening that can help relieve the suffering of another person." This goes far beyond merely waiting for our turn to speak or planning what we'll say next.
 
 Deep listening involves bringing complete attention to another person's words, emotions, and underlying needs without immediately judging, analyzing, or preparing our response. It requires the same qualities we develop in meditation: patience, presence, and the ability to observe without getting caught in reactive patterns.
 
