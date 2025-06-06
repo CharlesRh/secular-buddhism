@@ -75,11 +75,11 @@ These moments of pause don't require additional time but rather bring conscious 
 
 Choose 3-5 routine daily activities to approach with complete mindfulness today. These might include:
 
-**Morning activities**: Brushing teeth, showering, or making coffee with full sensory attention
-**Household tasks**: Washing dishes, making your bed, or preparing meals as meditation in action  
-**Movement**: Walking between locations or doing physical tasks with body awareness
-**Work activities**: Bringing presence to one routine work task or transition
-**Evening activities**: Preparing for sleep or tidying up as opportunities for mindful engagement
+- **Morning activities**: Brushing teeth, showering, or making coffee with full sensory attention
+- **Household tasks**: Washing dishes, making your bed, or preparing meals as meditation in action  
+- **Movement**: Walking between locations or doing physical tasks with body awareness
+- **Work activities**: Bringing presence to one routine work task or transition
+- **Evening activities**: Preparing for sleep or tidying up as opportunities for mindful engagement
 
 For each chosen activity:
 - Begin with the intention to stay present throughout
