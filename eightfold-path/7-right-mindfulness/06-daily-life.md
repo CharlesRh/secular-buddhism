@@ -43,7 +43,7 @@ Many work activities offer opportunities for informal mindfulness practice, rega
 
 **Collaborative activities** provide opportunities to practice interpersonal mindfulness—staying present during meetings, listening deeply to colleagues, and bringing awareness to both your own reactions and the group dynamics.
 
-### Thich Nhat Hanh's Walking Meditation
+### Walking Meditation
 
 Walking meditation bridges formal sitting practice with movement through the world. Thich Nhat Hanh taught walking meditation as a way to maintain awareness while moving at the pace of daily life.
 
