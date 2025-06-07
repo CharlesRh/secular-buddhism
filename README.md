@@ -72,6 +72,7 @@ The course is organized into eight main sections, following the traditional elem
 - [Mindfulness of Emotions and Feeling Tones](eightfold-path/7-right-mindfulness/04-emotions-and-feeling-tones.md)
 - [Mindful Listening and Communication](eightfold-path/7-right-mindfulness/05-mindful-listening.md)
 - [Mindfulnes in Daily Life](eightfold-path/7-right-mindfulness/06-daily-life.md)
+- [Integration and Moving Forward](eightfold-path/7-right-mindfulness/07-right-mindfulness-integration.md)
 
 8. **Right Concentration** - Develop sustained, focused attention through meditation. Practice directing and maintaining awareness with clarity, stability, and tranquility.
 
