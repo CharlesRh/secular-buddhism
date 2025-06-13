@@ -17,6 +17,16 @@ The Buddha observed that everything in our experience is in constant flux. Nothi
 
 Yet despite this obvious truth, we often live as though things were permanent. We become attached to how things are, or how we want them to be, creating suffering when change inevitably occurs.
 
+### Things Always Becoming Otherwise
+
+In a [conversation](https://dynamic.wakingup.com/pack/PKC4680?source=content%20share&share_id=BF183365&code=SC04C8A7A) with Dan Harris and Sam Harris regarding The Eightfold Path, Joseph Goldstein offers a particularly vivid way to understand impermanence through an unusual English phrase: "things always becoming otherwise." This captures the active, continuous nature of change that the word "impermanence" sometimes misses—recognizing that in every moment, everything is actively becoming something different.
+
+Goldstein connects this to a more practical understanding of suffering. Rather than translating dukkha simply as "suffering," he offers: "the inevitability of unwanted experiences." We suffer not because painful things happen, but because we resist the constant "otherwise-ness" of experience.
+
+Consider his simple example: "I can be going for a walk, and then my knee starts to hurt. So now my first thought: 'Oh—becoming otherwise.'" This recognition transforms potential frustration into a reminder of reality's nature. The pain isn't evidence that something has gone wrong—it's just life continuing to unfold as it always does.
+
+The phrase "things always becoming otherwise" interrupts our unconscious expectation of stability. Instead of "This shouldn't be happening," we can recognize "This is how life moves." This shift doesn't eliminate the challenges that change brings, but it removes the additional layer of resistance that multiplies our suffering.
+
 ### The Paradox of Impermanence
 
 Impermanence can initially seem like a source of anxiety. If everything is changing, what can we rely on? But the Buddha taught that truly understanding impermanence actually leads to peace, not anxiety. When we stop fighting against the natural flow of change, we can:
