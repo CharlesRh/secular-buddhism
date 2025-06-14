@@ -51,6 +51,27 @@ Traditionally, the Buddha outlined Right Action through several key restraints, 
 
 Each restraint addresses actions that violate trust, cause pain, or damage relationships. Yet these aren't merely prohibitions—they point toward positive virtues like compassion, generosity, and respect for boundaries.
 
+### The Five Precepts: Foundations of Ethical Living
+
+To help teach these restraints, the Buddha offered the Five Precepts (*pañca-sīla*) as a practical code of conduct for lay practitioners. These precepts serve as everyday commitments to living ethically and mindfully, supporting both personal well-being and harmonious communities.
+
+The Five Precepts are:
+
+1. **Refrain from taking life**  
+   Cultivating respect and compassion for all living beings.
+2. **Refrain from taking what is not freely given**  
+   Practicing honesty and respecting the property and boundaries of others.
+3. **Refrain from sexual misconduct**  
+   Acting with integrity and care in relationships, avoiding actions that cause harm or exploitation. The specifics of what constitutes "misconduct" can vary by culture and context; practitioners are encouraged to reflect on what integrity, respect, and non-harm mean in their own relationships and communities.
+4. **Refrain from false speech**  
+   Speaking truthfully, avoiding deception, gossip, or words that cause harm.
+5. **Refrain from intoxicating drinks and substances that cloud the mind**  
+   Maintaining clarity and mindfulness, recognizing how intoxication can lead to unskillful actions.
+
+These precepts are not commandments, but invitations to reflect on the impact of our actions. They provide a foundation for ethical living, helping us to avoid harm and cultivate positive qualities in daily life. By taking up the precepts as ongoing practices, we strengthen our capacity for mindfulness, compassion, and wise action—qualities at the heart of the Eightfold Path.
+
+Taken together, the Five Precepts support the broader aims of Right Action, helping us bridge the gap between personal conduct and our impact on the wider world.
+
 ### Beyond Personal Ethics: The Wider Impact of Our Actions
 
 In today's interconnected world, Right Action extends far beyond our immediate interactions to include how our choices affect people, beings, and systems we may never see:
