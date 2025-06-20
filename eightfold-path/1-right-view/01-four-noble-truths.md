@@ -26,6 +26,16 @@ Forms of dukkha include:
 
 **4. The Truth of the Path**: The Buddha didn't just identify the problem; he offered a solution—the Eightfold Path, a middle way between indulgence and asceticism. This practical path leads to the gradual reduction of suffering.
 
+### The Perpetual Cycle of Samsara
+
+Writer George Saunders captures this ancient insight in remarkably clear, modern terms in his essay "The Incredible Buddha Boy":
+
+>The mind is a machine that is constantly asking: What would I prefer? Close your eyes, refuse to move, and watch what your mind does. What it does is become discontent with that-which-is. A desire arises, you satisfy that desire, and another arises in its place. This wanting and rewanting is an endless cycle for which, turns out, there is already a name: samsara. Samsara is at the heart of the vast human carnival: greed, neurosis, mad ambition, adultery, crimes of passion...and all of this takes place because we believe we will be made happy once our desires have been satisfied.
+
+Saunders perfectly describes what the Buddha called the Second Noble Truth—the endless cycle of craving that keeps us perpetually dissatisfied. This cycle, known as *samsara*, isn't a mystical concept but something we can observe directly in our own minds. Try his simple experiment: sit still and watch how quickly your mind begins generating preferences about your experience.
+
+This insight reveals why simply fulfilling our desires doesn't lead to lasting happiness. Each satisfaction is temporary, quickly replaced by new wants. Understanding this pattern is the beginning of freedom from it.
+
 ### Right View in Practice
 
 Right View isn't just theoretical understanding—it's a practical lens through which we view our daily experiences. When we stub our toe, we can observe the physical pain, our mental reaction, and how suffering increases when we resist what has happened.
