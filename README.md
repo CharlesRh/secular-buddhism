@@ -76,6 +76,7 @@ The course is organized into eight main sections, following the traditional elem
 
 8. **Right Concentration** - Develop sustained, focused attention through meditation. Practice directing and maintaining awareness with clarity, stability, and tranquility.
 - [The Foundation of Right Concentration](eightfold-path/8-right-concentration/01-foundation.md)
+- [Working with the Breath](eightfold-path/8-right-concentration/02-breath.md)
 
 ## Navigation
 
