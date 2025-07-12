@@ -5,11 +5,7 @@
 
 Today we explore how Right Action extends beyond personal conduct to address collective harm and social justice. While Buddhist practice is often presented as primarily individual, the Buddha himself was a social revolutionary who challenged the caste system, created an egalitarian community, and addressed structural suffering.
 
-The principle of non-harm (*ahimsa*) must be understood not only in terms of direct, personal actions but also in relation to the social systems we participate in and support:
-
->"All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill."
-
-This teaching invites us to consider not only the harm we might cause directly but also the harm we might enable through our participation in unjust systems.
+As physician and humanitarian Paul Farmer observed: "The idea that some lives matter less is the root of all that is wrong with the world." This insight captures exactly what Buddhist ethics asks us to examine—how systems of hierarchy and exclusion create suffering on a massive scale, and how our participation in these systems contradicts the fundamental principle of non-harm (ahimsa). This principle must be understood not only in terms of direct, personal actions but also in relation to the social systems we participate in and support. This teaching invites us to consider not only the harm we might cause directly but also the harm we might enable through our participation in unjust systems.
 
 ### Understanding Structural Violence and Systemic Harm
 
