@@ -45,6 +45,12 @@ Right View helps us recognize patterns in our experience:
 - How does our resistance to difficult experiences amplify our suffering?
 - What happens when we meet experiences with awareness instead of reactivity?
 
+### Seeing Clearly Begins with Awareness
+
+Writer Amy Krouse Rosenthal offered a simple instruction that captures Right View: **"Pay attention to what you pay attention to."**
+
+Before we can see the patterns that create suffering, we need to notice where our minds habitually go. Do we spend most of our mental energy on worry, planning, or rehashing the past? Simply becoming aware of these attention patterns is the first step toward the clear seeing that Right View requires.
+
 ### Practical Reflection
 
 Take a moment to consider:
