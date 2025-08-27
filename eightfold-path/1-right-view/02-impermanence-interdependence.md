@@ -54,6 +54,20 @@ When we deeply understand impermanence and interdependence, our sense of self na
 
 This doesn't mean we don't exist—clearly, we do! But we exist as rivers rather than rocks, as verbs rather than nouns, as processes rather than things.
 
+### The Self in Buddhist Understanding: Anatta
+
+This cartoon captures a profound philosophical difference that relates directly to one of the Three Marks of Existence we mentioned earlier:
+
+![Socrates and Buddha cartoon](../images/no-thyself.jpg)
+
+While Socrates's famous dictum "Know thyself" suggests there is a fixed, essential self to discover, the Buddha's teaching points to *anatta* (non-self) - the third mark of existence. This isn't nihilism but an invitation to investigate what we call "self" and discover that it lacks independent, permanent existence.
+
+When we look closely at what we consider to be "me" or "mine," we find only changing processes (physical sensations, emotions, perceptions, mental formations, and consciousness) none of which remain stable or independent. What we call "self" is more like a river than a rock, a flowing process rather than a fixed entity.
+
+This understanding of *anatta* completes the picture of the Three Marks of Existence: impermanence (*anicca*), suffering or unsatisfactoriness (*dukkha*), and non-self (*anatta*). Together, they form the foundation of Right View.
+
+The irony in this cartoon contains deep wisdom: by loosening our grip on a fixed sense of self, we actually come to understand our nature more accurately—as dynamic, interdependent processes rather than isolated entities. This insight naturally leads to greater compassion, as the artificial boundary between "self" and "other" becomes more permeable.
+
 ### Practical Reflection
 
 Take a moment to consider:
