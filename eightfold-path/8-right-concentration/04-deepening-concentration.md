@@ -29,6 +29,15 @@ Lovingkindness meditation follows a structured progression that provides clear o
 
 **Begin with yourself**: Start by directing genuine goodwill toward yourself. You might use phrases like "May I be happy," "May I be peaceful," "May I be free from suffering," or "May I live with ease." The specific words matter less than the sincere intention behind them.
 
+Here are some of the standard lovingkindness phrases you can use. Feel free to adapt the wording to what feels most sincere and meaningful to you:
+
+- May I be safe.
+- May I be happy.
+- May I be healthy.
+- May I live with ease.
+
+You can repeat these phrases for each person in the progression (yourself, benefactor, friend, neutral person, difficult person, all beings), simply changing the pronoun as appropriate (e.g., "May you be safe"). The phrases are not magic formulas—their power comes from the intention and care you bring to them.
+
 **Extend to a benefactor**: Bring to mind someone who has supported or helped you—a teacher, mentor, or anyone who has shown you kindness. Direct the same well-wishes toward them: "May you be happy, may you be peaceful."
 
 **Include a dear friend**: Choose someone you care about and feel close to. Again, offer genuine wishes for their happiness and well-being.
@@ -63,7 +72,10 @@ The practice develops through repetition and sincerity rather than through parti
 
 Lovingkindness practice naturally cultivates what the Buddha called "positive mind states"—joy, tranquility, equanimity, and compassion. These states both support and arise from concentration, creating a beneficial cycle.
 
-**Joy** (*pīti*) might arise as appreciation for the practice itself or delight in extending care to others. **Tranquility** (*passaddhi*) often emerges as the mind settles into sustained goodwill. **Equanimity** (*upekkhā*) develops through practicing with both easy and difficult people. **Compassion** (*karuna*) naturally flows from recognizing shared struggles and wishes for happiness.
+- **Joy** (*pīti*) might arise as appreciation for the practice itself or delight in extending care to others. 
+- **Tranquility** (*passaddhi*) often emerges as the mind settles into sustained goodwill. 
+- **Equanimity** (*upekkhā*) develops through practicing with both easy and difficult people. 
+- **Compassion** (*karuna*) naturally flows from recognizing shared struggles and wishes for happiness.
 
 These states aren't goals to achieve but natural byproducts of sustained lovingkindness practice. As with breath meditation, trying to force these experiences often prevents them from arising naturally.
 
