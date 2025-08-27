@@ -78,6 +78,7 @@ The course is organized into eight main sections, following the traditional elem
 - [The Foundation of Right Concentration](eightfold-path/8-right-concentration/01-foundation.md)
 - [Working with the Breath](eightfold-path/8-right-concentration/02-breath.md)
 - [Handling Distractions and Obstacles](eightfold-path/8-right-concentration/03-handling-distractions.md)
+- [Deepening Concentration](eightfold-path/8-right-concentration/04-deepening-concentration.md)
 
 ## Navigation
 
