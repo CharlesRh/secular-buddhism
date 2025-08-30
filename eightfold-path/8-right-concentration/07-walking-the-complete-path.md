@@ -121,4 +121,4 @@ For your final formal practice in this course, design an integrated session that
 
 Remember: this is not the end of your journey but the real beginning. The path stretches ahead, vast and rewarding, calling you forward into ever-greater wisdom, compassion, and freedom. Walk it with confidence, knowing you have everything you need to continue growing in understanding and service.
 
-The Buddha's final words were: "Work out your salvation with diligence." Your diligent practice of the Eightfold Path is your contribution to the awakening of the world.
+The Buddha's final words were: "All conditioned things are impermanent. Strive on with diligence." May your diligent practice of the Eightfold Path bring benefit to yourself and all beings.
