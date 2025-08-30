@@ -29,6 +29,8 @@ Lovingkindness meditation follows a structured progression that provides clear o
 
 **Begin with yourself**: Start by directing genuine goodwill toward yourself. You might use phrases like "May I be happy," "May I be peaceful," "May I be free from suffering," or "May I live with ease." The specific words matter less than the sincere intention behind them.
 
+Some might wonder how saying "May I be happy" aligns with Buddhist teachings on non-self (*anatta*). This isn't a contradiction but a skillful navigation between conventional and ultimate truths. While deep insight reveals no fixed, permanent self, we operate on the conventional level where suffering and well-being are very real experiences. Lovingkindness practice works with our everyday experience while gradually loosening rigid self-identification by extending the same care to all beings.
+
 Here are some of the standard lovingkindness phrases you can use. Feel free to adapt the wording to what feels most sincere and meaningful to you:
 
 - May I be safe.

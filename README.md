@@ -80,6 +80,8 @@ The course is organized into eight main sections, following the traditional elem
 - [Handling Distractions and Obstacles](eightfold-path/8-right-concentration/03-handling-distractions.md)
 - [Deepening Concentration](eightfold-path/8-right-concentration/04-deepening-concentration.md)
 - [Concentration in Daily Life](eightfold-path/8-right-concentration/05-daily-life-concentration.md)
+- [Building a Sustainable Practice](eightfold-path/8-right-concentration/06-sustainable-practice.md)
+- [Integration and Walking the Complete Path](eightfold-path/8-right-concentration/07-walking-the-complete-path.md)
 
 ## Navigation
 

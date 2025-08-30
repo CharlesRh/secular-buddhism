@@ -51,6 +51,18 @@ Traditionally, the Buddha outlined Right Action through several key restraints, 
 
 Each restraint addresses actions that violate trust, cause pain, or damage relationships. Yet these aren't merely prohibitions—they point toward positive virtues like compassion, generosity, and respect for boundaries.
 
+### The Universal Test: Kant's Categorical Imperative
+
+When facing ethical dilemmas, philosopher Immanuel Kant offered a powerful test: 
+> *Act only according to that maxim whereby you can at the same time will that it should become a universal law.*
+
+This complements Buddhist ethics beautifully. Before acting, ask:
+- "What if everyone in my situation acted this way?"
+- "Would I want this to be how all people behave?"
+
+Like the Buddhist principle of considering consequences for all beings, 
+Kant's test helps us move beyond self-interest to universal concern.
+
 ### Beyond Personal Ethics: The Wider Impact of Our Actions
 
 In today's interconnected world, Right Action extends far beyond our immediate interactions to include how our choices affect people, beings, and systems we may never see:

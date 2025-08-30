@@ -21,7 +21,9 @@ Yet despite this obvious truth, we often live as though things were permanent. W
 
 In a [conversation](https://dynamic.wakingup.com/pack/PKC4680?source=content%20share&share_id=BF183365&code=SC04C8A7A) with Dan Harris and Sam Harris regarding The Eightfold Path, Joseph Goldstein offers a particularly vivid way to understand impermanence through an unusual English phrase: "things always becoming otherwise." This captures the active, continuous nature of change that the word "impermanence" sometimes misses—recognizing that in every moment, everything is actively becoming something different.
 
-Goldstein connects this to a more practical understanding of suffering. Rather than translating dukkha simply as "suffering," he offers: "the inevitability of unwanted experiences." We suffer not because painful things happen, but because we resist the constant "otherwise-ness" of experience.
+This insight reflects ancient wisdom found across traditions. Persian Sufi poets in the 12th century captured this same truth in the phrase "this too shall pass," telling the story of a king who sought a ring inscription that would make him happy when sad and humble when proud. The simple phrase reminded him that all states, whether joyful or painful—are temporary, flow like water through our hands. What these teachings point to isn't just philosophical abstraction but a practical understanding of how life unfolds moment by moment. You can't step into the same river twice.
+
+Building on this understanding of constant change, Goldstein connects impermanence to a more practical understanding of suffering. Rather than translating dukkha simply as "suffering," he offers: "the inevitability of unwanted experiences." We suffer not because painful things happen, but because we resist the constant "otherwise-ness" of experience.
 
 Consider his simple example: "I can be going for a walk, and then my knee starts to hurt. So now my first thought: 'Oh—becoming otherwise.'" This recognition transforms potential frustration into a reminder of reality's nature. The pain isn't evidence that something has gone wrong—it's just life continuing to unfold as it always does.
 
