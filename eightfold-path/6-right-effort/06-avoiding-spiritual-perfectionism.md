@@ -39,6 +39,14 @@ This isn't about silencing the critic with positive thinking, but about bringing
 
 The Buddha's teaching on Right Effort points to a middle way between straining and complacency in our practice. Rather than oscillating between intense periods of practice followed by complete abandonment when we can't maintain perfection, we can find sustainable engagement.
 
+This challenge becomes particularly acute once we begin to grasp the depth of Buddhist teachings. As Stuart E. Hamilton said, [when discussing the coastline paradox](https://www.newyorker.com/magazine/2025/09/01/the-history-of-the-new-yorkers-vaunted-fact-checking-department): 
+
+> "Everything is infinity long if you have a small enough ruler... The more you know, the more you know that there is more you don't know. The facts of the universe are infinity long. You either let this drive you crazy or you adjust your ruler size."
+
+This captures something essential about spiritual perfectionism. When we first encounter the dharma, it seems manageable—a few practices, some ethical guidelines, maybe learning to meditate. But as we deepen our engagement, we discover vast philosophical traditions, subtle distinctions in practice, and countless texts spanning millennia. We realize that lifetimes wouldn't be enough to master everything.
+
+At this point, we face the choice described in the quote: either let this overwhelm drive us to despair and excessive striving, or wisely adjust our "ruler"—our standards for what constitutes adequate practice. The perfectionist uses an impossibly fine ruler, measuring progress in microscopic increments where nothing is ever good enough. The Middle Way involves choosing a ruler size that allows for genuine growth while remaining sustainable and kind.
+
 Signs of excessive striving in practice include:
 - Tension and rigidity in body and mind during practice
 - Judging your experiences as right or wrong
