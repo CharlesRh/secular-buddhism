@@ -43,9 +43,9 @@ This challenge becomes particularly acute once we begin to grasp the depth of Bu
 
 > "Everything is infinity long if you have a small enough ruler... The more you know, the more you know that there is more you don't know. The facts of the universe are infinity long. You either let this drive you crazy or you adjust your ruler size."
 
-This captures something essential about spiritual perfectionism. When we first encounter the dharma, it seems manageable—a few practices, some ethical guidelines, maybe learning to meditate. But as we deepen our engagement, we discover vast philosophical traditions, subtle distinctions in practice, and countless texts spanning millennia. We realize that lifetimes wouldn't be enough to master everything.
+This captures something essential about spiritual perfectionism. When we first encounter the dharma, it seems manageable; a few practices, some ethical guidelines, maybe learning to meditate. But as we deepen our engagement, we discover vast philosophical traditions, subtle distinctions in practice, and countless texts. We realize lifetimes wouldn't be enough to master everything.
 
-At this point, we face the choice described in the quote: either let this overwhelm drive us to despair and excessive striving, or wisely adjust our "ruler"—our standards for what constitutes adequate practice. The perfectionist uses an impossibly fine ruler, measuring progress in microscopic increments where nothing is ever good enough. The Middle Way involves choosing a ruler size that allows for genuine growth while remaining sustainable and kind.
+At this point, we face the choice described in the quote: either let this complexity make us anxious through excessive striving, or wisely adjust our ruler (our standards) for what constitutes adequate practice. The perfectionist uses an impossibly fine ruler, measuring progress in microscopic increments where nothing is ever good enough. The Middle Way involves choosing a ruler size that allows for genuine growth while remaining sustainable and kind.
 
 Signs of excessive striving in practice include:
 - Tension and rigidity in body and mind during practice
