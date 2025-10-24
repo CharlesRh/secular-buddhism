@@ -27,6 +27,8 @@ Compassion in Buddhism isn't just an emotional response to suffering but arises 
 
 This compassion extends to all beings without exception, including those we find difficult and ourselves in our moments of struggle.
 
+The physician and anthropologist Paul Farmer, who dedicated his life to providing healthcare to the poor, captured the heart of this understanding: **"The idea that some lives matter less is the root of all that is wrong with the world."** This wrong view, that some beings are less deserving of care and compassion, underlies countless forms of suffering, from personal indifference to systemic injustice. Right View recognizes the equal worth of all beings and responds accordingly.
+
 ### Self-Compassion as Foundation
 
 The Buddha taught that we should extend the same care to ourselves that we would to any beloved person. Self-compassion isn't self-indulgence but a recognition that we too are worthy of understanding and kindness. Without this foundation, our compassion for others may become depleted or tinged with resentment.
