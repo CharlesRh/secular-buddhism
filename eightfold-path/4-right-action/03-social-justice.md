@@ -82,6 +82,10 @@ Singer then asks: If we accept this moral intuition, why wouldn't we make simila
 
 This thought experiment challenges us to examine the moral boundaries we draw between those we feel responsible for and those whose suffering we consider distant or separate from us. Buddhist ethics, with its emphasis on universal compassion, invites us to continually expand our circle of moral concern.
 
+In a [conversation with Rachel Martin](https://www.npr.org/2026/01/01/nx-s1-5341546-e1/author-john-green-talks-about-living-with-obsessive-compulsive-disorder), the author John Green makes a similar argument:
+
+>"...when we're close to suffering, when we are proximal to suffering, we are astonishingly generous. We are capable of tremendous sacrifice. We will take risks for each other. We will show our love for each other and for the life in this world in profound ways. And when we are - when we do not let ourselves become close to other people's suffering or the suffering of other animals, we are capable of absolute monstrosity. And so that's the first rung out for me is, like, remind yourself that humans are capable of astonishing acts of compassion."
+
 ### Engaged Buddhism: The Path of Action
 
 Thich Nhat Hanh coined the term "Engaged Buddhism" during the Vietnam War to describe a practice that addresses social suffering directly:
