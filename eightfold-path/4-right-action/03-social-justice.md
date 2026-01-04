@@ -49,9 +49,7 @@ While contemporary social justice language wasn't available to the Buddha, his t
 - He invited participation from all social classes, breaking down barriers between groups
 - He challenged wealth hoarding through teachings on generosity and simplicity
 
-These actions weren't separate from his spiritual teaching but integral to his understanding of the path to liberation. As he taught:
-
->"The noble disciple, having abandoned the taking of what is not given... dwells giving what is given, expecting nothing in return, with a heart become pure, free from stinginess."
+These actions weren't separate from his spiritual teaching but integral to his understanding of the path to liberation. By creating a community where worth was determined by conduct rather than birth, where resources were shared rather than hoarded, and where consensus replaced hierarchy, the Buddha demonstrated that personal awakening and social transformation are inseparable aspects of the same path.
 
 ### The Five Precepts in Social Context
 
