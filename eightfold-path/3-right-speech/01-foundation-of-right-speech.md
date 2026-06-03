@@ -15,9 +15,7 @@ Our words shape our reality in several ways:
 - They establish our reputation and how others perceive us
 - They contribute to the broader social atmosphere
 
-The Buddha recognized that speech can be a source of tremendous suffering or profound healing:
-
->"Beings are owners of their actions, heirs of their actions; they originate from their actions, are bound to their actions, have their actions as their refuge. It is action (*karma*) that distinguishes beings as inferior and superior." — *Majjhima Nikaya 135 (Culakammavibhanga Sutta)*
+The Buddha recognized that speech can be a source of tremendous suffering or profound healing. In the Buddhist suttas (such as AN 5.198 and AN 10.176), he explains that truly beneficial speech must be spoken truthfully, affectionately, and at the right time. Ultimately, it should stem from a mind of goodwill and be used intentionally to heal divisions, cement relationships, and build social harmony.
 
 ### The Four Aspects of Right Speech
 
